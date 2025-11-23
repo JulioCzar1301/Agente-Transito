@@ -1,0 +1,4608 @@
+{
+  "prova": {
+    "titulo": "PROVA 01 - LEGISLAÇÃO DE TRÂNSITO",
+    "questoes": [
+      {
+        "numero": 1,
+        "tipo": "legislacao",
+        "pergunta": "A atual legislação de trânsito intitula-se:",
+        "alternativas": {
+          "A": "Código Nacional de Trânsito.",
+          "B": "Código de Trânsito.",
+          "C": "Código de Trânsito Brasileiro.",
+          "D": "Código Brasileiro de Trânsito."
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 2,
+        "tipo": "legislacao",
+        "pergunta": "O trânsito de qualquer natureza nas vias terrestres do território nacional, abertas à circulação, rege-se pelo:",
+        "alternativas": {
+          "A": "Código de Trânsito Brasileiro.",
+          "B": "Código Nacional de Trânsito.",
+          "C": "Código Brasileiro de Trânsito.",
+          "D": "Código de Trânsito."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 3,
+        "tipo": "legislacao",
+        "pergunta": "Considera-se trânsito a utilização das vias por:",
+        "alternativas": {
+          "A": "Pessoas e animais, isolados ou em grupos.",
+          "B": "Pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não.",
+          "C": "Veículos conduzidos por condutores habilitados.",
+          "D": "Pessoas e veículos, conduzidos ou não."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 4,
+        "tipo": "legislacao",
+        "pergunta": "A utilização das vias por pessoas, veículos e animais é para fins de:",
+        "alternativas": {
+          "A": "Circulação, parada e estacionamento.",
+          "B": "Circulação e estacionamento.",
+          "C": "Circulação, parada e operação de carga ou descarga.",
+          "D": "Circulação, parada, estacionamento e operação de carga ou descarga."
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+        "numero": 5,
+        "tipo": "legislacao",
+        "pergunta": "São consideradas vias terrestres urbanas e rurais:",
+        "alternativas": {
+          "A": "Ruas, avenidas e vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+          "B": "Ruas, avenidas, logradouros, caminhos, passagens, estradas, rodovias, praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+          "C": "Estradas e rodovias.",
+          "D": "Praias abertas à circulação pública."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 6,
+        "tipo": "legislacao",
+        "pergunta": "As praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas são, para efeito do Código de Trânsito Brasileiro, consideradas:",
+        "alternativas": {
+          "A": "Vias terrestres.",
+          "B": "Áreas autônomas.",
+          "C": "Vias privativas.",
+          "D": "Áreas restritas."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 7,
+        "tipo": "legislacao",
+        "pergunta": "A Junta Administrativa de Recursos de Infrações é um órgão colegiado componente do:",
+        "alternativas": {
+          "A": "Conselho Estadual de Trânsito.",
+          "B": "Conselho Nacional de Trânsito.",
+          "C": "Sistema Nacional de Trânsito.",
+          "D": "Departamento Nacional de Trânsito."
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 8,
+        "tipo": "legislacao",
+        "pergunta": "Ao Departamento de Trânsito (DETRAN), cabe, entre outras, a atribuição de:",
+        "alternativas": {
+          "A": "Propor a alteração da sinalização.",
+          "B": "Organizar estatística de trânsito em todo o país.",
+          "C": "Vistoriar, registrar e emplacar veículos.",
+          "D": "Emitir carteira internacional."
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 9,
+        "tipo": "legislacao",
+        "pergunta": "O infrator que julgar improcedente a penalidade de multa que lhe foi aplicada poderá interpor recurso junto:",
+        "alternativas": {
+          "A": "CETRAN",
+          "B": "DENATRAN",
+          "C": "CONTRAN",
+          "D": "JARI"
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+        "numero": 10,
+        "tipo": "legislacao",
+        "pergunta": "Organizar e manter o Registro Nacional de Carteiras de Habilitação – RENACH, compete ao:",
+        "alternativas": {
+          "A": "CONTRAN",
+          "B": "DENATRAN",
+          "C": "DETRAN",
+          "D": "CETRAN"
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 11,
+        "tipo": "legislacao",
+        "pergunta": "Organizar e manter o Registro Nacional de Veículos Automotores – RENAVAM, compete ao:",
+        "alternativas": {
+          "A": "DETRAN",
+          "B": "CETRAN",
+          "C": "CONTRAN",
+          "D": "DENATRAN"
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+        "numero": 12,
+        "tipo": "legislacao",
+        "pergunta": "Os Departamentos de Estradas e Rodagens são órgãos:",
+        "alternativas": {
+          "A": "Normativos do Sistema Nacional de Trânsito.",
+          "B": "Com jurisdição em todo território nacional.",
+          "C": "Executivos do Sistema Nacional de Trânsito.",
+          "D": "Normativos do Conselho Nacional de Trânsito."
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 13,
+        "tipo": "legislacao",
+        "pergunta": "Expedir a Permissão para Dirigir, a Carteira Nacional de Habilitação, os Certificados de Registro e o de Licenciamento Anual, é competência do:",
+        "alternativas": {
+          "A": "DETRAN",
+          "B": "CETRAN",
+          "C": "CONTRAN",
+          "D": "DENATRAN"
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 14,
+        "tipo": "legislacao",
+        "pergunta": "Realizar, fiscalizar e controlar o processo de formação, aperfeiçoamento, reciclagem e suspensão de condutores, expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante delegação do órgão federal competente, é de responsabilidade do:",
+        "alternativas": {
+          "A": "DENATRAN.",
+          "B": "DETRAN.",
+          "C": "CETRAN.",
+          "D": "CONTRAN."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 15,
+        "tipo": "legislacao",
+        "pergunta": "É competência da JARI:",
+        "alternativas": {
+          "A": "Cumprir e fazer cumprir a legislação de trânsito e a execução das normas e diretrizes estabelecidas pelo CONTRAN, no âmbito de suas atribuições.",
+          "B": "Administrar fundo de âmbito Nacional destinado à segurança e educação de trânsito.",
+          "C": "Julgar os recursos interpostos pelos infratores.",
+          "D": "Coletar dados, elaborar estudos sobre acidentes de trânsito e suas causas."
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 16,
+        "tipo": "legislacao",
+        "pergunta": "Vistoriar, inspecionar quanto às condições de segurança veicular, registrar, emplacar, selar a placa, licenciar veículos, expedindo o Certificado de Registro e o Licenciamento Anual, mediante delegação do órgão federal competente, é de responsabilidade:",
+        "alternativas": {
+          "A": "Órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal, no âmbito de sua circunscrição.",
+          "B": "Órgãos e entidades executivos rodoviários da União e dos Estados, no âmbito de sua circunscrição.",
+          "C": "Polícias Militares dos Estados e do Distrito Federal.",
+          "D": "Departamento Nacional de Infraestrutura de Trânsito."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 17,
+        "tipo": "legislacao",
+        "pergunta": "A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo do:",
+        "alternativas": {
+          "A": "Estado",
+          "B": "DETRAN",
+          "C": "Município",
+          "D": "DENATRAN"
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 18,
+        "tipo": "legislacao",
+        "pergunta": "Obedece a legislação municipal do domicílio ou residência de seus proprietários, o registro e o licenciamento dos veículos de:",
+        "alternativas": {
+          "A": "Somente os ciclomotores e bicicletas.",
+          "B": "Propulsão humana e de tração animal.",
+          "C": "Reboque, semirreboque e bonde.",
+          "D": "Somente os de propulsão humana."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 19,
+        "tipo": "legislacao",
+        "pergunta": "Assinale a alternativa correta: Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição:",
+        "alternativas": {
+          "A": "Estabelecer procedimentos sobre a aprendizagem e habilitação de condutores de veículos, a expedição de documentos de condutores, de registro e licenciamento de veículos.",
+          "B": "Proceder à supervisão, à coordenação, à correção do órgão delegado, ao controle e à fiscalização da Política Nacional de Trânsito e do Programa Nacional de Trânsito.",
+          "C": "Fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores ou pela sua carga.",
+          "D": "Conceder autorização para conduzir veículos de propulsão humana e de tração animal; registrar e licenciar na forma da legislação, veículos de propulsão humana e de tração animal."
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+        "numero": 20,
+        "tipo": "legislacao",
+        "pergunta": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
+        "alternativas": {
+          "A": "Automático e não automático.",
+          "B": "Radar e medidor ótico.",
+          "C": "Fixo, estátil, móvel e portátil.",
+          "D": "Eletrônico e audiovisual."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 21,
+        "tipo": "legislacao",
+        "pergunta": "Somente poderá transitar pelas vias terrestres o veículo cujo peso e dimensões atenderem aos limites estabelecidos pelo:",
+        "alternativas": {
+          "A": "DENATRAN.",
+          "B": "CONTRAN.",
+          "C": "DETRAN.",
+          "D": "CONTRANDIFE."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 22,
+        "tipo": "legislacao",
+        "pergunta": "Os órgãos técnicos e consultivos destinam-se a realizar estudos e oferecer sugestões sobre assuntos específicos. É chamado de:",
+        "alternativas": {
+          "A": "Jari",
+          "B": "DENATRAN",
+          "C": "CETRAN",
+          "D": "Câmaras Temáticas"
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+        "numero": 23,
+        "tipo": "legislacao",
+        "pergunta": "Qual o órgão máximo normativo, da união:",
+        "alternativas": {
+          "A": "CONTRAN.",
+          "B": "CETRAN.",
+          "C": "CONTRANDIFE.",
+          "D": "CIRETRAN."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 24,
+        "tipo": "legislacao",
+        "pergunta": "A qual órgão abaixo compete criar Câmaras Temáticas?",
+        "alternativas": {
+          "A": "DENATRAN.",
+          "B": "CONTRAN.",
+          "C": "DETRAN.",
+          "D": "As JARIs."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 25,
+        "tipo": "legislacao",
+        "pergunta": "São órgãos recursais:",
+        "alternativas": {
+          "A": "CONTRAN",
+          "B": "PRF",
+          "C": "JARI's",
+          "D": "CETRAN"
+        },
+        "foto": null,
+        "correta": "C"
+      },
+      {
+        "numero": 26,
+        "tipo": "legislacao",
+        "pergunta": "A função exercida pela PRF com o objetivo de garantir obediência às normas de trânsito é:",
+        "alternativas": {
+          "A": "Fiscalização.",
+          "B": "Operação.",
+          "C": "Policiamento",
+          "D": "Patrulhamento"
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 27,
+        "tipo": "legislacao",
+        "pergunta": "Encaminhar aos órgãos e entidades de trânsito informações sobre problemas apontados em recursos, compete:",
+        "alternativas": {
+          "A": "As JARIs.",
+          "B": "Ao CONTRAN.",
+          "C": "Ao DENATRAN.",
+          "D": "Ao CETRAN."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 28,
+        "tipo": "legislacao",
+        "pergunta": "O Sistema Nacional de Trânsito é integrado por:",
+        "alternativas": {
+          "A": "Órgãos normativos e executivos;",
+          "B": "Órgãos de direção e executivos;",
+          "C": "Órgãos executivos;",
+          "D": "Órgãos colegiados e temáticos."
+        },
+        "foto": null,
+        "correta": "A"
+      },
+      {
+        "numero": 29,
+        "tipo": "legislacao",
+        "pergunta": "Realizar, fiscalizar e controlar o processo de habilitação, aperfeiçoamento, reciclagem e suspensão de condutores, é competência:",
+        "alternativas": {
+          "A": "Dos órgãos executivos de trânsito da União.",
+          "B": "Dos órgãos executivos dos Estados.",
+          "C": "Dos órgãos executivos rodoviários dos Estados.",
+          "D": "Dos órgãos normativos dos Estados."
+        },
+        "foto": null,
+        "correta": "B"
+      },
+      {
+        "numero": 30,
+        "tipo": "legislacao",
+        "pergunta": "A receita arrecadada com a cobrança das multas de trânsito será aplicada em:",
+        "alternativas": {
+          "A": "Sinalização.",
+          "B": "Engenharia de tráfego.",
+          "C": "Policiamento",
+          "D": "Todas as afirmativas acima"
+        },
+        "foto": null,
+        "correta": "D"
+      },
+      {
+    "numero": 1,
+    "tipo": "processo_habilitacao",
+    "pergunta": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+    "alternativas": {
+        "A": "Cintos de segurança para o condutor e seu auxiliar.",
+        "B": "Registro de veículo especial.",
+        "C": "Lanternas de luz verde nas extremidades laterais direita e esquerda.",
+        "D": "Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
+    },
+    "correta": "B"
+    },
+    {
+    "numero": 2,
+    "tipo": "processo_habilitacao",
+    "pergunta": "O candidato para se habilitar para conduzir veículo automotor e elétrico deverá preencher os seguintes requisitos:",
+    "alternativas": {
+        "A": "Saber ler e escrever.",
+        "B": "Saber ler e escrever e possuir documento de identidade.",
+        "C": "Saber ler e escrever, ser penalmente imputável e possuir carteira de identidade ou equivalente.",
+        "D": "Ser penalmente imputável."
+    },
+    "correta": "C"
+    },
+    {
+    "numero": 3,
+    "tipo": "processo_habilitacao",
+    "pergunta": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+    "alternativas": {
+        "A": "Não é válida para substituir documento original.",
+        "B": "É válida quando autenticada em cartório.",
+        "C": "É válida quando não plastificada.",
+        "D": "É válida quando apresentada junto com o documento de identidade do portador."
+    },
+    "correta": "A"
+    },
+    {
+    "numero": 4,
+    "tipo": "processo_habilitacao",
+    "pergunta": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+    "alternativas": {
+        "A": "Seis meses.",
+        "B": "Três meses.",
+        "C": "Doze meses.",
+        "D": "Nove meses."
+    },
+    "correta": "C"
+    },
+    {
+    "numero": 5,
+    "tipo": "processo_habilitacao",
+    "pergunta": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+    "alternativas": {
+        "A": "Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+        "B": "Somente saber ler e escrever, e possuir documento de identidade.",
+        "C": "Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+        "D": "Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
+    },
+    "correta": "D"
+    },
+    {
+    "numero": 6,
+    "tipo": "processo_habilitacao",
+    "pergunta": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
+    "alternativas": {
+        "A": "No Brasil.",
+        "B": "No seu Estado.",
+        "C": "No seu Município.",
+        "D": "Em outro país."
+    },
+    "correta": "D"
+    },
+    {
+    "numero": 7,
+    "tipo": "processo_habilitacao",
+    "pergunta": "As categorias existentes à habilitação são:",
+    "alternativas": {
+        "A": "A – B – C – D",
+        "B": "B – C – D – E",
+        "C": "B – C – D",
+        "D": "A – B – C – D – E"
+    },
+    "correta": "D"
+    },
+    {
+    "numero": 8,
+    "tipo": "processo_habilitacao",
+    "pergunta": "O condutor para conduzir veículo motorizado de duas ou três rodas, com ou sem carro lateral, deverá habilitar-se na categoria:",
+    "alternativas": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+    },
+    "correta": "A"
+    },
+    {
+    "numero": 9,
+    "tipo": "processo_habilitacao",
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria _______ habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+    "alternativas": {
+        "A": "C",
+        "B": "B",
+        "C": "E",
+        "D": "D"
+    },
+    "correta": "B"
+    },
+    {
+    "numero": 10,
+    "tipo": "processo_habilitacao",
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria ______ habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+    "alternativas": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B"
+    },
+    "correta": "C"
+    },
+    {
+    "numero": 11,
+    "tipo": "processo_habilitacao",
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria _______ habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
+    "alternativas": {
+        "A": "D",
+        "B": "C",
+        "C": "E",
+        "D": "B"
+    },
+    "correta": "A"
+    },
+    {
+    "numero": 12,
+    "tipo": "processo_habilitacao",
+    "pergunta": "A idade mínima para conduzir um veículo automotor com capacidade acima de 20 passageiros é:",
+    "alternativas": {
+        "A": "20 anos.",
+        "B": "21 anos.",
+        "C": "18 anos.",
+        "D": "19 anos."
+    },
+    "correta": "B"
+    },
+    {
+    "numero": 13,
+    "tipo": "processo_habilitacao",
+    "pergunta": "No caso de reprovação no exame escrito de legislação de trânsito ou de direção veicular, o candidato poderá repetir o exame:",
+    "alternativas": {
+        "A": "No 15º dia da divulgação do resultado.",
+        "B": "No 16º dia da divulgação do resultado.",
+        "C": "No dia seguinte da divulgação do resultado.",
+        "D": "Não há período de interstício."
+    },
+    "correta": "B"
+    },
+    {
+    "numero": 14,
+    "tipo": "processo_habilitacao",
+    "pergunta": "O candidato que pretende se habilitar para a categoria 'D' deverá realizar o exame de direção veicular no veículo que tenha:",
+    "alternativas": {
+        "A": "No mínimo, 08 (oito) lugares, sem contar com o do condutor.",
+        "B": "No mínimo, 20 (vinte) lugares.",
+        "C": "Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
+        "D": "Duas rodas."
+    },
+    "correta": "A"
+    },
+    {
+    "numero": 15,
+    "tipo": "processo_habilitacao",
+    "pergunta": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+    "alternativas": {
+        "A": "A ou B",
+        "B": "AB",
+        "C": "C, D ou E",
+        "D": "Somente pela categoria B"
+    },
+    "correta": "B"
+    },
+    {
+  "numero": 16,
+  "tipo": "processo_habilitacao",
+  "pergunta": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+  "alternativas": {
+    "A": "1 ano na categoria B, ou 2 anos na categoria C.",
+    "B": "2 anos na categoria B, ou 1 ano na categoria C.",
+    "C": "Somente 1 ano na categoria C.",
+    "D": "Somente 1 ano na categoria B."
+  },
+  "correta": "B"
+},
+{
+  "numero": 17,
+  "tipo": "processo_habilitacao",
+  "pergunta": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+  "alternativas": {
+    "A": "2 anos na categoria B.",
+    "B": "1 ano na categoria B.",
+    "C": "2 anos na categoria AB.",
+    "D": "1 ano na categoria C."
+  },
+  "correta": "D"
+},
+{
+  "numero": 18,
+  "tipo": "processo_habilitacao",
+  "pergunta": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
+  "alternativas": {
+    "A": "RENAVAM",
+    "B": "RENACH",
+    "C": "RENACOM",
+    "D": "CETRAN"
+  },
+  "correta": "B"
+},
+{
+  "numero": 19,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+  "alternativas": {
+    "A": "Dois registros no RENACH.",
+    "B": "Um único registro no RENACOM.",
+    "C": "Um único registro no RENACH.",
+    "D": "Dois registros no RENACOM."
+  },
+  "correta": "C"
+},
+{
+  "numero": 20,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O candidato poderá requerer simultaneamente:",
+  "alternativas": {
+    "A": "A habilitação nas categorias A e C.",
+    "B": "Categorias A a ACC e habilitação na categoria D.",
+    "C": "Categorias A a ACC e habilitação na categoria B, bem como em AB.",
+    "D": "As categorias A e E."
+  },
+  "correta": "C"
+},
+{
+  "numero": 21,
+  "tipo": "processo_habilitacao",
+  "pergunta": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a ____________ anos e ser habilitado na categoria ____________.",
+  "alternativas": {
+    "A": "21, B",
+    "B": "18, D",
+    "C": "18, B",
+    "D": "21, D"
+  },
+  "correta": "D"
+},
+{
+  "numero": 22,
+  "tipo": "processo_habilitacao",
+  "pergunta": "Do condutor de veículo destinado à condução de escolares, exige-se:",
+  "alternativas": {
+    "A": "Não ter cometido nenhuma infração de trânsito.",
+    "B": "Idade superior a 18 anos.",
+    "C": "Apresentação de certificado em curso especializado.",
+    "D": "Apresentação do Registro Nacional de Transportadores Urbanos."
+  },
+  "correta": "C"
+},
+{
+  "numero": 23,
+  "tipo": "processo_habilitacao",
+  "pergunta": "Quando da renovação da CNH o condutor de veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+  "alternativas": {
+    "A": "De 05 (cinco) em 05 (cinco) anos até completar 60 (sessenta) anos de idade.",
+    "B": "De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
+    "C": "De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
+    "D": "De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade."
+  },
+  "correta": "D"
+},
+{
+  "numero": 24,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O condutor de veículo automotor, após 65 (sessenta e cinco) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+  "alternativas": {
+    "A": "De 05 (cinco) em 05 (cinco) anos.",
+    "B": "De 02 (dois) em 02 (dois) anos.",
+    "C": "De 03 (três) em 03 (três) anos.",
+    "D": "De 10 (dez) em 10 (dez) anos."
+  },
+  "correta": "C"
+},
+{
+  "numero": 25,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O condutor que tiver a sua Permissão para Dirigir cassada, poderá reiniciar o processo de habilitação, que consiste em prestar exames de:",
+  "alternativas": {
+    "A": "Aptidão física e mental, avaliação psicológica e legislação de trânsito.",
+    "B": "Aptidão física e mental, avaliação psicológica, legislação de trânsito e prática de direção veicular.",
+    "C": "Prática de direção veicular.",
+    "D": "Legislação de trânsito e prática de direção veicular."
+  },
+  "correta": "B"
+},
+{
+  "numero": 26,
+  "tipo": "processo_habilitacao",
+  "pergunta": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir no término de um ano, se o mesmo cometer:",
+  "alternativas": {
+    "A": "Uma infração de natureza média.",
+    "B": "Uma infração de natureza grave.",
+    "C": "Ser reincidente na infração de natureza leve.",
+    "D": "Uma infração de natureza leve."
+  },
+  "correta": "B"
+},
+{
+  "numero": 27,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O processo do candidato à habilitação ficará ativado no Órgão ou Entidade Executivo de Trânsito pelo prazo de:",
+  "alternativas": {
+    "A": "06 (seis) meses.",
+    "B": "24 (vinte e quatro) meses.",
+    "C": "12 (doze) meses.",
+    "D": "Durante a validade do exame de sanidade física e mental."
+  },
+  "correta": "C"
+},
+{
+  "numero": 28,
+  "tipo": "processo_habilitacao",
+  "pergunta": "O candidato para se habilitar na categoria A, poderá realizar o exame de prática de direção veicular em veículo de 2 rodas com cilindrada:",
+  "alternativas": {
+    "A": "De 50 cm³.",
+    "B": "De 100 cm³.",
+    "C": "De 120 cm³.",
+    "D": "Acima de 120 cm³."
+  },
+  "correta": "D"
+},
+{
+  "numero": 29,
+  "tipo": "processo_habilitacao",
+  "pergunta": "A não obtenção da Carteira Nacional de Habilitação pelo permissionário, implica em reiniciar todo o processo de habilitação, no prazo de:",
+  "alternativas": {
+    "A": "30 dias.",
+    "B": "15 dias.",
+    "C": "360 dias.",
+    "D": "A qualquer tempo."
+  },
+  "correta": "D"
+},
+{
+  "numero": 30,
+  "tipo": "processo_habilitacao",
+  "pergunta": "A Licença de Aprendizagem para prática de direção veicular em via pública, ou em locais autorizados para este fim, será expedida pelo DETRAN ao candidato que:",
+  "alternativas": {
+    "A": "Tenha completado 16 (dezesseis) anos de idade.",
+    "B": "Tenha completado 18 (dezoito) anos de idade.",
+    "C": "Tenha prestado o exame em veículo particular.",
+    "D": "Tenha sido aprovado nos exames de aptidão física e mental, avaliação psicológica e de legislação de trânsito."
+  },
+  "correta": "D"
+},
+{
+  "numero": 1,
+  "tipo": "veiculos",
+  "pergunta": "Automotor; elétrico, de propulsão humana, de tração animal, reboque ou semirreboque, é a classificação dos veículos quanto a:",
+  "alternativas": {
+    "A": "Espécie.",
+    "B": "Categoria.",
+    "C": "Carga.",
+    "D": "Tração."
+  },
+  "correta": "A"
+},
+{
+  "numero": 2,
+  "tipo": "veiculos",
+  "pergunta": "É considerado veículo de passageiro:",
+  "alternativas": {
+    "A": "Carroça.",
+    "B": "Caminhão.",
+    "C": "Caminhonete.",
+    "D": "Bicicleta."
+  },
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "veiculos",
+  "pergunta": "De acordo com a legislação de trânsito, os veículos quanto à espécie são:",
+  "alternativas": {
+    "A": "Oficial, particular, aluguel e de corrida.",
+    "B": "Particular, aluguel e escolar.",
+    "C": "Passageiros, carga, missão diplomática e aluguel.",
+    "D": "Passageiros, carga, misto, competição, tração, especial e coleção."
+  },
+  "correta": "D"
+},
+{
+  "numero": 4,
+  "tipo": "veiculos",
+  "pergunta": "Assinale a alternativa correta. Não é considerado veículo de passageiros:",
+  "alternativas": {
+    "A": "Motoneta.",
+    "B": "Bicicleta.",
+    "C": "Carroça",
+    "D": "Triciclo."
+  },
+  "correta": "B"
+},
+{
+  "numero": 5,
+  "tipo": "veiculos",
+  "pergunta": "Bonde, triciclo, bicicleta, reboque ou semirreboque são veículos, quanto à espécie, classificados como:",
+  "alternativas": {
+    "A": "Misto.",
+    "B": "Passageiros.",
+    "C": "Tração.",
+    "D": "Especial."
+  },
+  "correta": "C"
+},
+{
+  "numero": 6,
+  "tipo": "veiculos",
+  "pergunta": "Camioneta e utilitário são veículos, quanto à espécie, classificados como:",
+  "alternativas": {
+    "A": "Tração.",
+    "B": "Passageiros.",
+    "C": "Misto.",
+    "D": "Carga."
+  },
+  "correta": "C"
+},
+{
+  "numero": 7,
+  "tipo": "veiculos",
+  "pergunta": "Caminhonete e motocicleta são veículos, quanto à espécie, classificados como:",
+  "alternativas": {
+    "A": "Passageiros.",
+    "B": "Carga.",
+    "C": "Misto.",
+    "D": "Tração."
+  },
+  "correta": "A"
+},
+{
+  "numero": 8,
+  "tipo": "veiculos",
+  "pergunta": "Segundo o Código de Trânsito Brasileiro a identificação externa de um veículo de duas rodas é feita por meio:",
+  "alternativas": {
+    "A": "Do registro de propriedade do veículo.",
+    "B": "Do número do motor.",
+    "C": "Das placas dianteira e traseira com caracteres iguais as do registro do veículo.",
+    "D": "Da placa traseira com caracteres iguais ao do registro do veículo."
+  },
+  "correta": "D"
+},
+{
+  "numero": 9,
+  "tipo": "veiculos",
+  "pergunta": "Assinale a alternativa que responda a questão. O quadricíclo é um veículo classificado quanto à espécie de _______ e de ________.",
+  "alternativas": {
+    "A": "Misto; competição.",
+    "B": "Passageiros; tração.",
+    "C": "Passageiros; carga.",
+    "D": "Espécie; coleção"
+  },
+  "correta": "C"
+},
+{
+  "numero": 10,
+  "tipo": "veiculos",
+  "pergunta": "Veículos destinados à formação de condutores são classificados quanto à categoria, em:",
+  "alternativas": {
+    "A": "De aluguel.",
+    "B": "De aprendizagem.",
+    "C": "Particular.",
+    "D": "Oficial."
+  },
+  "correta": "B"
+},
+{
+  "numero": 11,
+  "tipo": "veiculos",
+  "pergunta": "As características de um veículo podem ser modificadas quando:",
+  "alternativas": {
+    "A": "Sempre que for envolvido em acidente.",
+    "B": "Houver prévia autorização da autoridade de trânsito.",
+    "C": "O proprietário simplesmente quitar seus débitos com o órgão competente.",
+    "D": "O infrator não houver completado 20 pontos."
+  },
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "veiculos",
+  "pergunta": "As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios:",
+  "alternativas": {
+    "A": "Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais e espelho retrovisor do lado esquerdo.",
+    "B": "Campainha e espelho retrovisor do lado esquerdo e do lado direito.",
+    "C": "Campainha e sinalização noturna.",
+    "D": "Cinto de segurança."
+  },
+  "correta": "A"
+},
+{
+  "numero": 13,
+  "tipo": "veiculos",
+  "pergunta": "O transporte de passageiros em veículo de carga será permitido:",
+  "alternativas": {
+    "A": "Onde não houver linha regular de ônibus para transportar trabalhadores rurais.",
+    "B": "Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas às condições de segurança.",
+    "C": "Desde que obedecidas as condições de segurança, para o transporte de desportistas.",
+    "D": "Para o transporte de estudantes nas zonas rurais."
+  },
+  "correta": "B"
+},
+{
+  "numero": 14,
+  "tipo": "veiculos",
+  "pergunta": "Assinale a alternativa que completa a questão: O veículo será identificado internamente por caracteres gravados no _________ ou no ____________ e externamente por meio de ___________dianteira e traseira.",
+  "alternativas": {
+    "A": "Radiador; cilindro; lanternas.",
+    "B": "Motor; cárter; rodas.",
+    "C": "Chassi; monobloco; placas.",
+    "D": "Carburador; chassi; placas."
+  },
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "veiculos",
+  "pergunta": "O ciclomotor é veículo classificado quanto à espécie como:",
+  "alternativas": {
+    "A": "Misto.",
+    "B": "Tração.",
+    "C": "Especial.",
+    "D": "Passageiros."
+  },
+  "correta": "D"
+},
+{
+  "numero": 16,
+  "tipo": "veiculos",
+  "pergunta": "São dispensados da placa dianteira, os veículos de:",
+  "alternativas": {
+    "A": "Quatro rodas.",
+    "B": "Mais de quatro rodas.",
+    "C": "Duas ou três rodas.",
+    "D": "Todos os veículos são obrigados a ter placa dianteira."
+  },
+  "correta": "C"
+},{
+  "numero": 17,
+  "tipo": "veiculos",
+  "pergunta": "As placas com as cores verde e amarela da Bandeira Nacional são usadas pelos veículos de representação pessoal do(s):",
+  "alternativas": {
+    "A": "Governadores.",
+    "B": "Presidente e Vice-Presidente da República.",
+    "C": "Prefeitos.",
+    "D": "Secretários municipais."
+  },
+  "correta": "B"
+},
+{
+  "numero": 18,
+  "tipo": "veiculos",
+  "pergunta": "Ao registrar o veículo automotor, o órgão executivo de trânsito expedirá o documento:",
+  "alternativas": {
+    "A": "Certificado.",
+    "B": "Certificado de Segurança Veicular.",
+    "C": "Certificado de Registro de Veículo.",
+    "D": "Certificado de Registro e Licenciamento de Veículo."
+  },
+  "correta": "C"
+},
+{
+  "numero": 19,
+  "tipo": "veiculos",
+  "pergunta": "Constitui documento de porte obrigatório:",
+  "alternativas": {
+    "A": "Certificado de Registro de Veículo.",
+    "B": "Autorização, Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+    "C": "Comprovante do pagamento do Seguro Obrigatório.",
+    "D": "Comprovante do pagamento atualizado do IPVA."
+  },
+  "correta": "B"
+},
+{
+  "numero": 20,
+  "tipo": "veiculos",
+  "pergunta": "A expedição de novo Certificado de Registro de Veículo, dar-se-á quando:",
+  "alternativas": {
+    "A": "Houver transferência de propriedade.",
+    "B": "Houver mudanças nos equipamentos obrigatórios.",
+    "C": "De doze em doze meses.",
+    "D": "Após o pagamento do IPVA."
+  },
+  "correta": "A"
+},
+{
+  "numero": 21,
+  "tipo": "veiculos",
+  "pergunta": "No caso de transferência de propriedade, o prazo para o proprietário adotar as providências necessárias à efetivação da expedição de novo Certificado de Registro de Veículo é de:",
+  "alternativas": {
+    "A": "15 dias.",
+    "B": "De imediato.",
+    "C": "30 dias.",
+    "D": "A qualquer tempo."
+  },
+  "correta": "C"
+},
+{
+  "numero": 22,
+  "tipo": "veiculos",
+  "pergunta": "A expedição de novo Certificado de Registro de Veículo é obrigatória quando:",
+  "alternativas": {
+    "A": "O proprietário mudar de endereço no mesmo Município.",
+    "B": "Houver mudança de categoria.",
+    "C": "O veículo circular acoplado a semirreboque.",
+    "D": "O veículo for importado por membro de missão diplomática."
+  },
+  "correta": "B"
+},
+{
+  "numero": 23,
+  "tipo": "veiculos",
+  "pergunta": "O proprietário de veículo irrecuperável ou definitivamente desmontado deverá requerer a baixa do registro, sendo vedada à remontagem do veículo sobre o mesmo ______________, de forma a manter o registro anterior.",
+  "alternativas": {
+    "A": "Chassi",
+    "B": "Agregados",
+    "C": "Monobloco",
+    "D": "Número de Registro"
+  },
+  "correta": "A"
+},
+{
+  "numero": 24,
+  "tipo": "veiculos",
+  "pergunta": "O Licenciamento Anual do Veículo:",
+  "alternativas": {
+    "A": "Pagamento de exames de avaliação psicológica e aptidão física.",
+    "B": "Pagamento do seguro total e DPVAT.",
+    "C": "Pagamento de IPVA, Seguro Obrigatório",
+    "D": "Pagamento de IPVA e Seguro Obrigatório."
+  },
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "veiculos",
+  "pergunta": "Caso o veículo por infração de trânsito, não poderá:",
+  "alternativas": {
+    "A": "Renovar o Certificado de Registro do Veículo.",
+    "B": "Renovar o Licenciamento Anual do Veículo.",
+    "C": "Renovar o Seguro Obrigatório.",
+    "D": "Adquirir novo veículo."
+  },
+  "correta": "B"
+},
+{
+  "numero": 26,
+  "tipo": "veiculos",
+  "pergunta": "O órgão executivo de trânsito não expedirá novo Certificado de Registro de Veículo com apresentação de:",
+  "alternativas": {
+    "A": "Certificado de segurança veicular.",
+    "B": "Débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo.",
+    "C": "Autorização do Ministério das Relações Exteriores.",
+    "D": "Certificado de inalteração das características do veículo."
+  },
+  "correta": "B"
+},
+{
+  "numero": 27,
+  "tipo": "veiculos",
+  "pergunta": "Assinale a alternativa correta:",
+  "alternativas": {
+    "A": "O veículo será licenciado mesmo estando em débito com tributos, encargos e multas de trânsito e ambientais.",
+    "B": "Os veículos novos estão sujeitos ao licenciamento durante o trajeto entre a fábrica e o município de destino.",
+    "C": "É obrigatório o porte do Certificado de Licenciamento Anual.",
+    "D": "O primeiro licenciamento não será feito simultaneamente ao registro."
+  },
+  "correta": "C"
+},
+{
+  "numero": 28,
+  "tipo": "veiculos",
+  "pergunta": "Os veículos destinados à condução coletiva de escolares, poderão circular nas vias com autorização emitida pelo:",
+  "alternativas": {
+    "A": "Órgão e entidade executivos de trânsito do Município.",
+    "B": "Órgão e entidade executivos de trânsito do Estado e do Distrito Federal.",
+    "C": "Órgão e entidade executivos rodoviários do Estado e do Distrito Federal.",
+    "D": "Órgão máximo executivo de trânsito da União."
+  },
+  "correta": "B"
+},
+{
+  "numero": 29,
+  "tipo": "veiculos",
+  "pergunta": "A realização de qualquer ato público que interfira no trânsito depende de:",
+  "alternativas": {
+    "A": "Licença especial do Prefeito.",
+    "B": "Prévia autorização da Autoridade de Trânsito com circunscrição sobre a via.",
+    "C": "Autorização do Governador.",
+    "D": "Autorização de todos os moradores locais."
+  },
+  "correta": "B"
+},
+{
+  "numero": 30,
+  "tipo": "veiculos",
+  "pergunta": "Marca, modelo, ano de fabricação, cor, número do chassi, são:",
+  "alternativas": {
+    "A": "Acessórios do veículo.",
+    "B": "Equipamentos obrigatórios.",
+    "C": "Características legais e essenciais do veículo.",
+    "D": "Elementos utilizados, somente, para controle das montadoras de veículos."
+  },
+  "correta": "C"
+},
+
+{
+  "numero": 1,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-1a:",
+  "alternativas": {
+    "A": "Curva à esquerda.",
+    "B": "Curva acentuada à esquerda.",
+    "C": "Curva acentuada em 'S' à esquerda.",
+    "D": "Vire à esquerda."
+  },
+  "foto": "https://blog.usezapay.com.br/wp-content/uploads/2023/02/a1a.webp",
+  "correta": "B"
+},
+{
+  "numero": 2,
+  "tipo": "sinalizacao",
+  "pergunta": "Diante da placa de nº SV A-07 você entende que é um local com:",
+  "alternativas": {
+    "A": "Loja de ferramentas.",
+    "B": "Sanitários.",
+    "C": "Serviço mecânico.",
+    "D": "Aeroporto nas proximidades."
+  },
+  "foto": "https://isinaliza.vtexassets.com/arquivos/ids/236334-800-auto?v=637485830217170000&width=800&height=auto&aspect=true",
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-24b regulamenta:",
+  "alternativas": {
+    "A": "Passagem obrigatória.",
+    "B": "Sentido de circulação da via.",
+    "C": "Sentido único.",
+    "D": "Siga em frente."
+  },
+  "foto": "https://images.tcdn.com.br/img/img_prod/861159/placa_de_transito_regulamentacao_r_24b_passagem_obrigatoria_2791567_1_49ea9f44d2c6aebd680ebd036f6ac34f.jpg",
+  "correta": "A"
+},
+{
+  "numero": 4,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-4b adverte:",
+  "alternativas": {
+    "A": "Curva acentuada em 'S' à esquerda.",
+    "B": "Curva acentuada em 'S' à direita.",
+    "C": "Curva acentuada à direita.",
+    "D": "Pista sinuosa à direita."
+  },
+  "foto": "https://blog.usezapay.com.br/wp-content/uploads/2023/02/placa-a4b-610x610.webp",
+  "correta": "B"
+},
+{
+  "numero": 5,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-2 regulamenta:",
+  "alternativas": {
+    "A": "Parada obrigatória à frente.",
+    "B": "Alfândega.",
+    "C": "Dê a preferência.",
+    "D": "Parada obrigatória."
+  },
+  "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqLVpmWjq3V9RXXAs_rZHJHphdN7dYa0xcYLNyjwkJknzE5qiDm53Q1M&s",
+  "correta": "C"
+},
+{
+  "numero": 6,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº TAD-14 indica:",
+  "alternativas": {
+    "A": "Marina.",
+    "B": "Mirante.",
+    "C": "Farol.",
+    "D": "Monumento."
+  },
+  "foto": "https://aimore.net/placas/placa_TAD-14.jpg",
+  "correta": "A"
+},
+{
+  "numero": 7,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-8 adverte:",
+  "alternativas": {
+    "A": "Via lateral à esquerda.",
+    "B": "Entroncamento oblíquo à direita.",
+    "C": "Interseção em 'T'.",
+    "D": "Bifurcação em 'Y'."
+  },
+  "foto": "https://aimore.net/placas/A-8.jpg",
+  "correta": "C"
+},
+{
+  "numero": 8,
+  "tipo": "sinalizacao",
+  "pergunta": "Uma placa educativa é identificada pelas cores:",
+  "alternativas": {
+    "A": "Branca e azul e formato redondo.",
+    "B": "Branca e verde e formato quadrado.",
+    "C": "Branca e amarela e formato retangular.",
+    "D": "Branca e preta e formato retangular."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 9,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-5a regulamenta:",
+  "alternativas": {
+    "A": "Proibido retornar à esquerda.",
+    "B": "Proibido retornar à direita.",
+    "C": "Retorno à direita.",
+    "D": "Retorno à esquerda."
+  },
+  "foto": "https://aimore.net/placas/R-5a.jpg",
+  "correta": "A"
+},
+{
+  "numero": 10,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-12 adverte:",
+  "alternativas": {
+    "A": "Proibido retornar.",
+    "B": "Passagem de nível sem barreira.",
+    "C": "Interseção em círculo.",
+    "D": "Sentido circular obrigatório."
+  },
+  "foto": "https://aimore.net/placas/A-12.jpg",
+  "correta": "C"
+},
+{
+  "numero": 11,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-10 regulamenta:",
+  "alternativas": {
+    "A": "Proibido trânsito de veículo de tração animal.",
+    "B": "Proibido trânsito de veículos automotores.",
+    "C": "Permitido o trânsito, somente, de pedestres.",
+    "D": "Proibido ultrapassar."
+  },
+  "foto": "https://aimore.net/placas/R-10.jpg",
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº SAU-19 indica:",
+  "alternativas": {
+    "A": "Terminal Rodoferroviário.",
+    "B": "Terminal Ferroviário.",
+    "C": "Terminal Rodoviário.",
+    "D": "Abastecimento."
+  },
+  "foto": "https://isinaliza.vtexassets.com/arquivos/ids/236382-800-auto?v=638914679321400000&width=800&height=auto&aspect=true",
+  "correta": "C"
+},
+{
+  "numero": 13,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-6a regulamenta:",
+  "alternativas": {
+    "A": "Proibido parar e estacionar.",
+    "B": "Proibido estacionar.",
+    "C": "Estacionamento regulamentado.",
+    "D": "Proibido parar."
+  },
+  "foto": "https://aimore.net/placas/R-6a.jpg",
+  "correta": "B"
+},
+{
+  "numero": 14,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-42b adverte:",
+  "alternativas": {
+    "A": "Fim de pista dupla.",
+    "B": "Início de pista dupla.",
+    "C": "Mão dupla adiante.",
+    "D": "Sentido duplo."
+  },
+  "foto": "https://aimore.net/placas/A-42b.jpg",
+  "correta": "A"
+},
+{
+  "numero": 15,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-6c regulamenta:",
+  "alternativas": {
+    "A": "Proibido parar.",
+    "B": "Proibido estacionar.",
+    "C": "Área de estacionamento.",
+    "D": "Proibido parar e estacionar."
+  },
+  "foto": "https://aimore.net/placas/R-6c.jpg",
+  "correta": "D"
+},
+{
+  "numero": 16,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-36 adverte:",
+  "alternativas": {
+    "A": "Cuidado animais.",
+    "B": "Proibido trânsito de veículo de tração animal.",
+    "C": "Área de campismo.",
+    "D": "Animais selvagens."
+  },
+  "foto": "https://aimore.net/placas/A-36.jpg",
+  "correta": "D"
+},
+{
+  "numero": 17,
+  "tipo": "sinalizacao",
+  "pergunta": "Diante da placa de nº SV A-14 você entende que é uma área:",
+  "alternativas": {
+    "A": "Permitida para camping.",
+    "B": "Com aeroporto nas proximidades.",
+    "C": "Com igreja do patrimônio histórico.",
+    "D": "De proteção para indígenas."
+  },
+  "foto": "https://aimore.net/placas/SVA-14.jpg",
+  "correta": "A"
+},
+{
+  "numero": 18,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-19:",
+  "alternativas": {
+    "A": "Velocidade mínima permitida.",
+    "B": "Velocidade obrigatória.",
+    "C": "Uma sinalização de advertência.",
+    "D": "Velocidade máxima permitida."
+  },
+  "foto": "https://aimore.net/placas/R-19.jpg",
+  "correta": "D"
+},
+{
+  "numero": 19,
+  "tipo": "sinalizacao",
+  "pergunta": "Diante da placa de nº THC-01 você entende:",
+  "alternativas": {
+    "A": "Arquitetura histórica.",
+    "B": "Templo.",
+    "C": "Museu.",
+    "D": "Ruínas."
+  },
+  "foto": "https://aimore.net/placas/THC-01.jpg",
+  "correta": "B"
+},
+{
+  "numero": 20,
+  "tipo": "sinalizacao",
+  "pergunta": "As placas de identificação de rodovias, em forma de brasão e nas cores preta e branca, são de:",
+  "alternativas": {
+    "A": "Indicação.",
+    "B": "Regulamentação.",
+    "C": "Educativas.",
+    "D": "Advertência."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 21,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-6a adverte:",
+  "alternativas": {
+    "A": "Cruzamento.",
+    "B": "Entroncamento.",
+    "C": "Bifurcação.",
+    "D": "Junção."
+  },
+  "foto": "https://aimore.net/placas/A-6.jpg",
+  "correta": "A"
+},
+
+{
+  "numero": 21,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-6a adverte:",
+  "alternativas": {
+    "A": "Cruz de Santo André.",
+    "B": "Passagem de nível sem barreira.",
+    "C": "Via lateral à esquerda.",
+    "D": "Cruzamento de vias."
+  },
+  "foto": "https://aimore.net/placas/A-6.jpg",
+  "correta": "D"
+},
+{
+  "numero": 22,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-22 assinala que, à frente, no trecho sinalizado:",
+  "alternativas": {
+    "A": "Devido a pista escorregadia é proibido o trânsito de veículos.",
+    "B": "Há possibilidade de pista escorregadia com atoleiros e terreno encharcado.",
+    "C": "Devido a pista escorregadia e aos atoleiros, os veículos deverão ter pneus super calibrados.",
+    "D": "Os veículos, ao passarem, deverão ser rebocados com correntes."
+  },
+  "foto": "https://aimore.net/placas/R-22.jpg",
+  "correta": "B"
+},
+{
+  "numero": 23,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-3b adverte:",
+  "alternativas": {
+    "A": "Pista sinuosa à direita.",
+    "B": "Curva em 'S' à direita.",
+    "C": "Pista sinuosa à esquerda.",
+    "D": "Pista irregular."
+  },
+  "foto": "https://aimore.net/placas/A-3b.jpg",
+  "correta": "A"
+},
+{
+  "numero": 24,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-28 significa:",
+  "alternativas": {
+    "A": "Mão dupla adiante.",
+    "B": "Duplo sentido de circulação.",
+    "C": "Início de pista dupla.",
+    "D": "Sentido único."
+  },
+  "foto": "https://aimore.net/placas/R-28.jpg",
+  "correta": "B"
+},
+{
+  "numero": 25,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-13a adverte:",
+  "alternativas": {
+    "A": "Confluência à direita.",
+    "B": "Via lateral à esquerda.",
+    "C": "Entroncamento oblíquo à esquerda.",
+    "D": "Confluência à esquerda."
+  },
+  "foto": "https://aimore.net/placas/A-13a.jpg",
+  "correta": "D"
+},
+{
+  "numero": 26,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-1 regulamenta:",
+  "alternativas": {
+    "A": "Parada obrigatória.",
+    "B": "Semáforo à frente.",
+    "C": "Parada obrigatória à frente.",
+    "D": "Dê a preferência."
+  },
+  "foto": "https://aimore.net/placas/R-1.jpg",
+  "correta": "A"
+},
+{
+  "numero": 27,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº TNA-02 indica:",
+  "alternativas": {
+    "A": "Barco de passeio.",
+    "B": "Praia.",
+    "C": "Marina.",
+    "D": "Área para esporte náutico."
+  },
+  "foto": "https://aimore.net/placas/TNA-02.jpg",
+  "correta": "B"
+},
+{
+  "numero": 28,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-16 adverte:",
+  "alternativas": {
+    "A": "Bonde.",
+    "B": "Ponte móvel.",
+    "C": "Máquina agrícola.",
+    "D": "Obras."
+  },
+  "foto": "https://aimore.net/placas/A-16.jpg",
+  "correta": "A"
+},
+{
+  "numero": 29,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº R-30 assinala que:",
+  "alternativas": {
+    "A": "É proibido o trânsito de pedestre no trecho sinalizado.",
+    "B": "O sentido de circulação para pedestre é pela direita.",
+    "C": "No local sinalizado, andar pela esquerda é obrigatório.",
+    "D": "É proibido aglomeração no trecho sinalizado."
+  },
+  "foto": "https://aimore.net/placas/R-30.jpg",
+  "correta": "C"
+},
+{
+  "numero": 30,
+  "tipo": "sinalizacao",
+  "pergunta": "A placa de nº A-48 adverte:",
+  "alternativas": {
+    "A": "Peso bruto total limitado.",
+    "B": "Comprimento limitado.",
+    "C": "Peso limitado por eixo.",
+    "D": "Largura limitada."
+  },
+  "foto": "https://aimore.net/placas/A-48.jpg",
+  "correta": "B"
+},
+
+{
+  "numero": 1,
+  "tipo": "infracao",
+  "pergunta": "Assinale a infração gravíssima:",
+  "alternativas": {
+    "A": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que não haja concluído a travessia mesmo que ocorra sinal verde para o veículo.",
+    "B": "Deixar de dar preferência de passagem nas interseções com sinalização de regulamentação de Dê a preferência.",
+    "C": "Deixar de dar preferência de passagem em interseção não sinalizada a veículo que estiver circulando por rodovia ou rotatória.",
+    "D": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que vier da direita."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 2,
+  "tipo": "infracao",
+  "pergunta": "Em uma via rural não pavimentada, desprovida de sinalização regulamentadora de velocidade, foi registrada por instrumento eletrônico (radar), um condutor dirigindo seu veículo a velocidade de 100 Km/h. Esse condutor cometeu infração de natureza:",
+  "alternativas": {
+    "A": "Grave.",
+    "B": "Média.",
+    "C": "Leve.",
+    "D": "Gravíssima."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 3,
+  "tipo": "infracao",
+  "pergunta": "Assinale a alternativa correta. Constitui infração média:",
+  "alternativas": {
+    "A": "Transitar com o veículo em velocidade inferior à metade da velocidade máxima estabelecida para a via, retardando ou obstruindo o trânsito, a menos que as condições de tráfego e meteorológicas não o permitam, salvo se estiver na faixa da direita.",
+    "B": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito à aproximação de animais na pista.",
+    "C": "Deixar de reduzir a velocidade do veículo sob chuva, neblina, cerração ou ventos fortes.",
+    "D": "Deixar de reduzir a velocidade do veículo quando houver má visibilidade."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 4,
+  "tipo": "infracao",
+  "pergunta": "Transitar com o farol desregulado ou com o facho de luz alta, de forma a perturbar a visão de outro condutor, poderá acarretar:",
+  "alternativas": {
+    "A": "Multa.",
+    "B": "Multa e retenção do veículo.",
+    "C": "Multa e apreensão do veículo.",
+    "D": "Multa e remoção do veículo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 5,
+  "tipo": "infracao",
+  "pergunta": "Constitui infração grave:",
+  "alternativas": {
+    "A": "Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito.",
+    "B": "Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na iminência de passar um pelo outro ao realizar operação de ultrapassagem.",
+    "C": "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes.",
+    "D": "Deixar de conservar o veículo, quando estiver em movimento, na faixa a ele destinada pela sinalização de regulamentação, exceto em situações de emergência."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 6,
+  "tipo": "infracao",
+  "pergunta": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+  "alternativas": {
+    "A": "Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
+    "B": "Transportar criança menor de sete anos ou que não tenha, nas circunstâncias, condições de cuidar de sua própria segurança.",
+    "C": "Conduzir transportando carga incompatível com suas especificações.",
+    "D": "Conduzir rebocando outro veículo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 7,
+  "tipo": "infracao",
+  "pergunta": "Conduzir veículo com qualquer uma das placas de identificação sem condições de legibilidade ou visibilidade, estará sujeito às seguintes penalidades:",
+  "alternativas": {
+    "A": "Multa e apreensão do veículo.",
+    "B": "Apreensão e remoção do veículo.",
+    "C": "Multa e remoção do veículo.",
+    "D": "Apreensão do veículo e da Carteira Nacional de Habilitação."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 8,
+  "tipo": "infracao",
+  "pergunta": "Conduzir o veículo sem acionar o limpador de parabrisa durante a chuva é infração punida com:",
+  "alternativas": {
+    "A": "Advertência pelo agente de trânsito.",
+    "B": "Apreensão do veículo e multa.",
+    "C": "Multa e retenção do veículo.",
+    "D": "Remoção do veículo e multa."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 9,
+  "tipo": "infracao",
+  "pergunta": "É motivo de suspensão do direito de dirigir, ao condutor que cometer a infração de:",
+  "alternativas": {
+    "A": "Dirigir veículo com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+    "B": "Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais veículos.",
+    "C": "Entregar ou confiar a direção do veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigí-lo com segurança.",
+    "D": "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 10,
+  "tipo": "infracao",
+  "pergunta": "Transitar com o veículo desligado ou desengrenado, em declive, é uma infração:",
+  "alternativas": {
+    "A": "Média.",
+    "B": "Gravíssima.",
+    "C": "Grave.",
+    "D": "Leve."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 11,
+  "tipo": "infracao",
+  "pergunta": "Conduzir veículo, sem atenção e os cuidados indispensáveis à segurança, caracteriza:",
+  "alternativas": {
+    "A": "Infração média.",
+    "B": "Infração gravíssima.",
+    "C": "Infração grave.",
+    "D": "Infração leve."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 12,
+  "tipo": "infracao",
+  "pergunta": "O proprietário de veículo que não comunicar ao órgão executivo de trânsito do estado, no prazo determinado, a transferência de propriedade de seu veículo, cabe-lhe:",
+  "alternativas": {
+    "A": "A não responsabilidade pelas penalidades impostas e suas reincidências até a data da comunicação.",
+    "B": "Responsabilidade, juntamente com o novo proprietário, pelas penalidades impostas e suas reincidências até a data da comunicação.",
+    "C": "Responsabilidade exclusiva pela penalidade de multa.",
+    "D": "A responsabilidade é, única e exclusiva, do novo proprietário do veículo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 13,
+  "tipo": "infracao",
+  "pergunta": "O condutor que utilizar veículo de carga para transportar pessoas na carroceria, sem permissão da autoridade competente sobre a via, estará cometendo infração de natureza:",
+  "alternativas": {
+    "A": "Gravíssima.",
+    "B": "Grave.",
+    "C": "Média.",
+    "D": "Leve."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 14,
+  "tipo": "infracao",
+  "pergunta": "Conduzir motocicleta, motoneta ou ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção é infração ____, gerando como penalidade a (o) ____.",
+  "alternativas": {
+    "A": "Gravíssima; recolhimento do documento de habilitação.",
+    "B": "Grave; remoção do veículo.",
+    "C": "Grave; apreensão do veículo.",
+    "D": "Gravíssima; suspensão do direito de dirigir."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 15,
+  "tipo": "infracao",
+  "pergunta": "Constitui penalidade de suspensão do direito de dirigir:",
+  "alternativas": {
+    "A": "Utilizar o veículo para arremessar, sobre os veículos, água ou detritos.",
+    "B": "Conduzir o veículo sem os documentos de porte obrigatório.",
+    "C": "Estacionar o veículo nas esquinas.",
+    "D": "Dirigir veículo sem usar lentes corretoras de visão."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 16,
+  "tipo": "infracao",
+  "pergunta": "Os veículos apreendidos e não reclamados pelo seu proprietário, poderão ser levados à hasta pública em:",
+  "alternativas": {
+    "A": "90 dias.",
+    "B": "30 dias.",
+    "C": "60 dias.",
+    "D": "15 dias."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 17,
+  "tipo": "infracao",
+  "pergunta": "Quando o condutor estiver dirigindo o veículo transportando pessoas, animais ou volume a sua esquerda ou entre os braços e pernas, será aplicada a penalidade:",
+  "alternativas": {
+    "A": "Multa e apreensão do veículo.",
+    "B": "Multa e suspensão do direito de dirigir.",
+    "C": "Multa.",
+    "D": "Multa e retenção do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 18,
+  "tipo": "infracao",
+  "pergunta": "O pedestre que desobedece às regras e a sinalização de trânsito específicas determinadas no art. 254 do CTB está praticando infração de natureza leve, sujeito a penalidade de __________, no valor de:",
+  "alternativas": {
+    "A": "Advertência por escrito; 40% por cento do valor da infração de natureza leve.",
+    "B": "Multa; 50% cinquenta por cento do valor da infração de natureza leve.",
+    "C": "Frequência obrigatória em curso de reciclagem; 20% vinte por cento do valor da infração de natureza leve.",
+    "D": "Multa; 50% cinquenta por cento do valor da infração de natureza média."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 19,
+  "tipo": "infracao",
+  "pergunta": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, constitui infração de natureza:",
+  "alternativas": {
+    "A": "Média.",
+    "B": "Grave.",
+    "C": "Leve.",
+    "D": "Gravíssima."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 20,
+  "tipo": "infracao",
+  "pergunta": "As penalidades impostas ao:",
+  "alternativas": {
+    "A": "Somente, ao condutor.",
+    "B": "Somente, ao proprietário do veículo.",
+    "C": "Condutor, proprietário do veículo, embarcador e transportador.",
+    "D": "Veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 21,
+  "tipo": "infracao",
+  "pergunta": "Excetuando-se as infrações resultantes do excesso de peso, será sempre responsável pelo pagamento da penalidade de multa o:",
+  "alternativas": {
+    "A": "Condutor do veículo.",
+    "B": "Passageiro do veículo.",
+    "C": "Agente da autoridade de trânsito.",
+    "D": "Proprietário do veículo."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 22,
+  "tipo": "infracao",
+  "pergunta": "O responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou quando a carga proveniente de mais de um embarcador ultrapassar o peso bruto total é o:",
+  "alternativas": {
+    "A": "Embarcador.",
+    "B": "Transportador e embarcador.",
+    "C": "Proprietário.",
+    "D": "Transportador."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 23,
+  "tipo": "infracao",
+  "pergunta": "Não sendo possível identificar o infrator, a responsabilidade pela infração será:",
+  "alternativas": {
+    "A": "Do arrendante.",
+    "B": "Do proprietário do veículo.",
+    "C": "Do condutor.",
+    "D": "Não haverá um responsável, pois não foi possível identificar o infrator."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 24,
+  "tipo": "infracao",
+  "pergunta": "O condutor infrator penalizado em (05) cinco pontos no seu prontuário, cometeu uma infração:",
+  "alternativas": {
+    "A": "Leve.",
+    "B": "Gravíssima.",
+    "C": "Média.",
+    "D": "Grave."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "infracao",
+  "pergunta": "A soma das infrações gravíssima, grave, média e leve, totalizam:",
+  "alternativas": {
+    "A": "19 pontos.",
+    "B": "20 pontos.",
+    "C": "18 pontos.",
+    "D": "17 pontos."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 26,
+  "tipo": "infracao",
+  "pergunta": "Assinale a alternativa que completa a questão. A suspensão do direito de dirigir será aplicada quando o infrator atingir a contagem de _______.",
+  "alternativas": {
+    "A": "20 pontos.",
+    "B": "Até 19 pontos.",
+    "C": "15 pontos.",
+    "D": "19 pontos."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 27,
+  "tipo": "infracao",
+  "pergunta": "A cassação do documento de habilitação ocorrerá quando o condutor cometer a seguinte infração:",
+  "alternativas": {
+    "A": "Dirigir com velocidade superior a máxima em mais de cinquenta por cento.",
+    "B": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos.",
+    "C": "Estando suspenso o direito de dirigir.",
+    "D": "Deixar de prestar socorro à vítima de acidente de trânsito."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 28,
+  "tipo": "infracao",
+  "pergunta": "Roberto foi surpreendido em 01.08.07 promovendo na via pública competição esportiva, sem permissão da autoridade de trânsito com circunscrição sobre a via. Se ele cometer a mesma infração em 01.07.08 lhe será aplicado as seguintes penalidades:",
+  "alternativas": {
+    "A": "Multa, suspensão do direito de dirigir e apreensão do veículo.",
+    "B": "Multa, suspensão do direito de dirigir e retenção do veículo.",
+    "C": "Multa, cassação do documento de habilitação e apreensão do veículo.",
+    "D": "Multa, cassação do documento de habilitação e retenção do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 29,
+  "tipo": "infracao",
+  "pergunta": "A penalidade de advertência por escrito poderá ser aplicada pela autoridade, quando entender esta providência como mais educativa, a infração de:",
+  "alternativas": {
+    "A": "Natureza grave.",
+    "B": "Natureza leve ou média.",
+    "C": "Natureza gravíssima.",
+    "D": "Em nenhuma hipótese."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 30,
+  "tipo": "infracao",
+  "pergunta": "O condutor infrator será submetido a curso de reciclagem, quando:",
+  "alternativas": {
+    "A": "Cassada a sua Carteira Nacional de Habilitação.",
+    "B": "Suspenso do direito de dirigir.",
+    "C": "Cometer duas infrações de natureza média.",
+    "D": "Cometer qualquer infração de natureza grave."
+  },
+  "foto": null,
+  "correta": "B"
+},
+
+{
+  "numero": 1,
+  "tipo": "normas_circulacao",
+  "pergunta": "As crianças que devem ser transportadas nos bancos traseiros dos veículos automotores são aquelas com idade inferior a:",
+  "alternativas": {
+    "A": "9 anos",
+    "B": "8 anos",
+    "C": "10 anos",
+    "D": "7 anos"
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 2,
+  "tipo": "normas_circulacao",
+  "pergunta": "O uso da buzina para apressar o pedestre é:",
+  "alternativas": {
+    "A": "Permitido.",
+    "B": "Proibido apenas à noite.",
+    "C": "Permitido entre às 06:00 hs e 22:00 hs.",
+    "D": "Proibido."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 3,
+  "tipo": "normas_circulacao",
+  "pergunta": "Ao se aproximar de um cruzamento, uma forma segura de agir é:",
+  "alternativas": {
+    "A": "Reduzir a velocidade.",
+    "B": "Manter a mesma velocidade.",
+    "C": "Aumentar a velocidade.",
+    "D": "Parar o veículo."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 4,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor está dirigindo e verifica que há ciclistas no trânsito. Antes de ultrapassá-los deve:",
+  "alternativas": {
+    "A": "Buzinar e seguir normalmente. O ciclista deve tomar cuidado.",
+    "B": "Não se incomodar. Ciclistas não representam um motivo para preocupação.",
+    "C": "Ficar ao lado deles e avisá-los que deverão encostar.",
+    "D": "Dar um toque breve na buzina e deixar espaço de segurança entre seu veículo e a bicicleta."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 5,
+  "tipo": "normas_circulacao",
+  "pergunta": "Quando, dirigindo um veículo numa via de mão única com retorno ou entrada à esquerda, o condutor que estiver à frente indicar, por sinal, que vai entrar para esse lado, você poderá:",
+  "alternativas": {
+    "A": "Ultrapassar pela esquerda.",
+    "B": "Fazer um retorno.",
+    "C": "Acelerar o veículo.",
+    "D": "Ultrapassar pela direita."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 6,
+  "tipo": "normas_circulacao",
+  "pergunta": "Observe no desenho abaixo e indique qual veículo tem a preferência de passagem em cruzamento não sinalizado:",
+  "alternativas": {
+    "A": "Veículo 1, porque é uma ambulância.",
+    "B": "Veículo 2, porque trafega à direita do veículo 1.",
+    "C": "Veículo 1, porque trafega à direita do veículo 2.",
+    "D": "Veículo 1, porque goza de livre circulação, parada e estacionamento."
+  },
+  "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhgIQ1mDua_SGmKTQjVkMCyHnVpHCcAKtBtZ_MQjaUC7wOnRjZ",
+  "correta": "B"
+},
+{
+  "numero": 7,
+  "tipo": "normas_circulacao",
+  "pergunta": "Todo condutor de veículo deve dar preferência de passagem ao pedestre:",
+  "alternativas": {
+    "A": "Somente nas faixas de segurança.",
+    "B": "Em qualquer situação.",
+    "C": "Somente quando se tratar de deficiente físico.",
+    "D": "Somente quando se tratar de idosos e crianças."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 8,
+  "tipo": "normas_circulacao",
+  "pergunta": "É dever do pedestre:",
+  "alternativas": {
+    "A": "Ceder a preferência aos veículos.",
+    "B": "Manter as faixas e passagens em boas condições de higiene.",
+    "C": "Obedecer a sinalização.",
+    "D": "Andar na pista de rolamento, no mesmo sentido dos veículos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 9,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor deve sinalizar e deslocar, com antecedência, o seu veículo para faixa mais à esquerda da sua mão de direção para:",
+  "alternativas": {
+    "A": "Mudar de faixa de trânsito.",
+    "B": "Fazer uma ultrapassagem.",
+    "C": "Aumentar a velocidade.",
+    "D": "Entrar à esquerda."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 10,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor não poderá ultrapassar veículos:",
+  "alternativas": {
+    "A": "Nos trechos em curvas e em aclives com visibilidade suficiente.",
+    "B": "Nas passagens de nível, com sinalização permitindo a ultrapassagem.",
+    "C": "Em vias com duplo sentido de direção e pista única, quando houver sinalização permitindo a ultrapassagem.",
+    "D": "Pontes, viadutos e nas travessias de pedestres."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 11,
+  "tipo": "normas_circulacao",
+  "pergunta": "Nas interseções e suas proximidades, o condutor:",
+  "alternativas": {
+    "A": "Poderá efetuar ultrapassagem.",
+    "B": "Poderá estacionar.",
+    "C": "Não poderá efetuar ultrapassagem.",
+    "D": "Não precisa diminuir a velocidade do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 12,
+  "tipo": "normas_circulacao",
+  "pergunta": "Quando uma pista de rolamento comportar várias faixas de circulação no mesmo sentido, são as da ___________ destinadas ao deslocamento dos veículos mais ___________ e de maior porte, quando não houver faixa especial a eles destinada.",
+  "alternativas": {
+    "A": "Direita; rápidos.",
+    "B": "Esquerda; lentos.",
+    "C": "Direita; lentos.",
+    "D": "Esquerda; rápidos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 13,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os condutores de motocicletas, motonetas e ciclomotores só poderão circular nas vias:",
+  "alternativas": {
+    "A": "Segurando o guidão com apenas uma das mãos.",
+    "B": "Usando vestuário de proteção, quando transitar por rodovias.",
+    "C": "Utilizando capacete de segurança, com viseira ou óculos protetores.",
+    "D": "Fazendo uso do facho de luz alta nos túneis providos de iluminação pública."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 14,
+  "tipo": "normas_circulacao",
+  "pergunta": "A faixa de trânsito destinada a se fazer ultrapassagem e circular em maior velocidade é:",
+  "alternativas": {
+    "A": "Da direita.",
+    "B": "Da esquerda.",
+    "C": "Qualquer uma.",
+    "D": "A sinalização com linhas amarelas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 15,
+  "tipo": "normas_circulacao",
+  "pergunta": "O ciclista desmontado empurrando a bicicleta equipara-se, em direitos e deveres, ao:",
+  "alternativas": {
+    "A": "Pedestre",
+    "B": "Condutor",
+    "C": "Motociclista",
+    "D": "Passageiro"
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 16,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os veículos em missão de emergência, com as sirenes e os dispositivos de luzes intermitentes desligados, têm preferência de passagem quando:",
+  "alternativas": {
+    "A": "Cruzam com veículos que trafegam nas vias utilizadas pelas linhas de ônibus.",
+    "B": "Cruzam com veículos que se aproximam pela esquerda, em se tratando de cruzamento não sinalizado.",
+    "C": "Cruzam com veículos que transportam passageiros.",
+    "D": "Cruzam com veículos que trafegam em via não pavimentada."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 17,
+  "tipo": "normas_circulacao",
+  "pergunta": "As vias abertas à circulação, de acordo com sua utilização, classificam-se em:",
+  "alternativas": {
+    "A": "Rodovias e vias locais.",
+    "B": "Vias urbanas e vias rurais.",
+    "C": "Rodovias e estradas.",
+    "D": "Vias de trânsito rápido, vias coletoras e rodovias."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 18,
+  "tipo": "normas_circulacao",
+  "pergunta": "Veículos transitando por fluxos que se cruzem ao se aproximarem de local não sinalizado, a preferência é:",
+  "alternativas": {
+    "A": "De quem vem pela direita.",
+    "B": "De quem vai em linha reta.",
+    "C": "De quem desloca pela via de fluxo mais intensa de veículos.",
+    "D": "Do ônibus, por transportar um maior número de passageiros."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 19,
+  "tipo": "normas_circulacao",
+  "pergunta": "Dirigindo um veículo na via pública, antes de entrar em outra via, todo condutor deverá:",
+  "alternativas": {
+    "A": "Dar um toque breve na buzina e convergir.",
+    "B": "Diminuir a velocidade, buzinar e convergir.",
+    "C": "Certificar-se de que pode realizar a manobra sem perigo para os demais usuários da via.",
+    "D": "Somente ligar a seta e convergir."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 20,
+  "tipo": "normas_circulacao",
+  "pergunta": "O pedestre ao cruzar a pista de rolamento onde não houver faixa ou passagem a ele destinado, deverá:",
+  "alternativas": {
+    "A": "Cruzar a via em sentido contrário ao de seu eixo.",
+    "B": "Cruzar a via em sentido perpendicular ao de seu eixo.",
+    "C": "Cruzar a via no mesmo sentido ao de seu eixo.",
+    "D": "Cruzar a via em sentido paralelo ao de seu eixo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 21,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor manterá acesos os faróis do veículo, utilizando luz baixa durante a noite e durante o dia, em:",
+  "alternativas": {
+    "A": "Vias não iluminadas.",
+    "B": "Túneis providos de iluminação pública.",
+    "C": "Vias não providas de acostamento.",
+    "D": "Viadutos e trincheiras."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 22,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os condutores de motocicletas, motonetas ou ciclomotores só poderão circular nas vias utilizando:",
+  "alternativas": {
+    "A": "Capacete de segurança.",
+    "B": "Capacete de segurança, com viseira ou óculos protetores.",
+    "C": "Óculos protetores.",
+    "D": "Calçados de borracha."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 23,
+  "tipo": "normas_circulacao",
+  "pergunta": "A noite, ao cruzar com outro veículo ou ao segui-lo, o condutor deverá:",
+  "alternativas": {
+    "A": "Usar luz alta.",
+    "B": "Piscar o farol baixo e alto sucessivamente.",
+    "C": "Ligar o pisca alerta.",
+    "D": "Usar luz baixa."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 24,
+  "tipo": "normas_circulacao",
+  "pergunta": "É dever de todo condutor de veículo:",
+  "alternativas": {
+    "A": "Usar a buzina para apressar o pedestre.",
+    "B": "Dar passagem pela direita, quando solicitado.",
+    "C": "Conservar o veículo na faixa da esquerda.",
+    "D": "Transitar em velocidade compatível com a segurança diante de escolas e onde houver grande movimentação de pedestres."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "normas_circulacao",
+  "pergunta": "Obedecida a regulamentação estabelecida para a via, o condutor poderá aumentar a velocidade do seu veículo quando:",
+  "alternativas": {
+    "A": "Estiver ultrapassando.",
+    "B": "Estiver sendo ultrapassado.",
+    "C": "Notar a presença de veículos destinados a socorro.",
+    "D": "Diante da presença de animais para evitar atropelamentos."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 26,
+  "tipo": "normas_circulacao",
+  "pergunta": "Onde não houver sinalização regulamentadora, a velocidade máxima nas vias locais será:",
+  "alternativas": {
+    "A": "30 km/h.",
+    "B": "20 km/h.",
+    "C": "50 km/h.",
+    "D": "40 km/h."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 27,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os usuários das vias terrestres devem:",
+  "alternativas": {
+    "A": "Circular somente pelo lado direito da via.",
+    "B": "Ceder sempre o direito de passagem aos veículos de transporte coletivo.",
+    "C": "Circular sempre com velocidade reduzida.",
+    "D": "Abster-se de todo ato que possa constituir perigo ou obstáculo para o trânsito de veículos, de pessoas ou de animais."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 28,
+  "tipo": "normas_circulacao",
+  "pergunta": "Ao ultrapassar um veículo de transporte coletivo que esteja parado efetuando o embarque ou desembarque de passageiros, o procedimento correto do condutor é:",
+  "alternativas": {
+    "A": "Reduzir a velocidade.",
+    "B": "Aumentar a velocidade.",
+    "C": "Somente, observar a sinalização.",
+    "D": "Não ultrapassar o veículo."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 29,
+  "tipo": "normas_circulacao",
+  "pergunta": "Antes de colocar o veículo em movimento, o condutor deve verificar as condições de funcionamento dos equipamentos de uso obrigatório:",
+  "alternativas": {
+    "A": "Cinto de segurança e encosto de cabeça.",
+    "B": "Todas as alternativas estão corretas.",
+    "C": "Triângulo de segurança e pneu sobressalente.",
+    "D": "Limpador de parabrisa e buzina."
+  },
+  "foto": null,
+  "correta": "B"
+},
+
+{
+  "numero": 1,
+  "tipo": "normas_circulacao",
+  "pergunta": "Em pequenas manobras é permitido ao condutor:",
+  "alternativas": {
+    "A": "Deixar de usar o cinto de segurança.",
+    "B": "Transitar em marcha a ré.",
+    "C": "Deixar de usar o capacete de segurança.",
+    "D": "Transitar com o veículo desligado."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 2,
+  "tipo": "normas_circulacao",
+  "pergunta": "Gozam de livre circulação, estacionamento e parada, quando em serviço de urgência e devidamente identificados por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente, os veículos de:",
+  "alternativas": {
+    "A": "Socorro de incêndio e polícia.",
+    "B": "Socorro de incêndio e salvamento, polícia e ambulância, fiscalização e operação de trânsito.",
+    "C": "Polícia, fiscalização e operação de trânsito.",
+    "D": "Polícia e ambulância."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 3,
+  "tipo": "normas_circulacao",
+  "pergunta": "O embarque e desembarque dos passageiros devem ocorrer:",
+  "alternativas": {
+    "A": "Sempre do lado do condutor.",
+    "B": "Sempre do lado da calçada.",
+    "C": "Junto ao meio-fio do canteiro central.",
+    "D": "De qualquer lado da via, desde que bem estacionado."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 5,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os veículos que se deslocam sobre trilhos, respeitadas as normas de circulação, têm preferência de passagem:",
+  "alternativas": {
+    "A": "Nos cruzamentos não sinalizados.",
+    "B": "Na rotatória.",
+    "C": "Nos túneis.",
+    "D": "Sobre os demais veículos."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 6,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor deverá utilizar o pisca-alerta na seguinte situação:",
+  "alternativas": {
+    "A": "Em imobilizações ou situações de emergência.",
+    "B": "Transitando à noite.",
+    "C": "Sob chuva ou neblina.",
+    "D": "Sob cerração."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 7,
+  "tipo": "normas_circulacao",
+  "pergunta": "Nas estradas, onde não houver local apropriado para a operação de retorno, ou entrada à esquerda, o condutor deverá parar o veículo:",
+  "alternativas": {
+    "A": "No acostamento à direita.",
+    "B": "No centro da via.",
+    "C": "No acostamento da esquerda.",
+    "D": "Junto ao eixo central."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 8,
+  "tipo": "normas_circulacao",
+  "pergunta": "Dar passagem pela esquerda, quando solicitado, é:",
+  "alternativas": {
+    "A": "Apenas uma questão de cortesia.",
+    "B": "Dever do condutor.",
+    "C": "Apenas uma regra para prevenir acidentes.",
+    "D": "Proibido a todo motorista."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 9,
+  "tipo": "normas_circulacao",
+  "pergunta": "Assinale a alternativa que responda à questão: Ao dirigir um veículo de ______ porte, tome todo o cuidado e seja responsável pela segurança dos veículos ______, pelos não motorizados e pela segurança dos ______.",
+  "alternativas": {
+    "A": "Menor; maiores; condutores.",
+    "B": "Menor; maiores; ciclistas.",
+    "C": "Maior; menores; passageiros.",
+    "D": "Maior; menores; pedestres."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 10,
+  "tipo": "normas_circulacao",
+  "pergunta": "Onde não existir sinalização regulamentadora, a velocidade máxima nas vias de trânsito rápido será de:",
+  "alternativas": {
+    "A": "80 km/h.",
+    "B": "90 km/h para ônibus e micro-ônibus.",
+    "C": "110 km/h para automóveis e camionetas.",
+    "D": "60 km/h."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 11,
+  "tipo": "normas_circulacao",
+  "pergunta": "Manter o veículo na mão de direção e na faixa própria, de acordo com a legislação de trânsito, é:",
+  "alternativas": {
+    "A": "Imprudência do condutor.",
+    "B": "Dever de todo condutor de veículo.",
+    "C": "Proibido a todo condutor de veículo.",
+    "D": "Inconveniente, pois perturba o trânsito."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os condutores de motocicletas, motonetas ou ciclomotores não poderão circular nas vias:",
+  "alternativas": {
+    "A": "Transportando crianças menores de 07 anos.",
+    "B": "Utilizando capacete de segurança, com viseira ou óculos protetor.",
+    "C": "Segurando o guidom com as duas mãos.",
+    "D": "Usando vestuário de proteção."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 13,
+  "tipo": "normas_circulacao",
+  "pergunta": "Ao aproximar-se de um cruzamento não sinalizado, surgindo um veículo a sua direita, o condutor deve:",
+  "alternativas": {
+    "A": "Parar o veículo, respeitando a preferência.",
+    "B": "Diminuir a velocidade.",
+    "C": "Usar atenção difusa e passar.",
+    "D": "Não se preocupar, se estiver transitando em uma avenida."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 14,
+  "tipo": "normas_circulacao",
+  "pergunta": "O condutor deve sinalizar e deslocar, com antecedência, o seu veículo para a faixa mais à direita da sua mão de direção para:",
+  "alternativas": {
+    "A": "Mudar de faixa de trânsito.",
+    "B": "Para retornar pela mesma via.",
+    "C": "Entrar à direita.",
+    "D": "Entrar à esquerda."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "normas_circulacao",
+  "pergunta": "A operação de carga ou descarga será regulamentada pelo órgão ou entidade sobre a via e é considerada:",
+  "alternativas": {
+    "A": "Parada.",
+    "B": "Estacionamento.",
+    "C": "Embarque.",
+    "D": "Desembarque."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 16,
+  "tipo": "normas_circulacao",
+  "pergunta": "Quando veículos, transitando por fluxos que se cruzem, se aproximarem de local não sinalizado, terá preferência de passagem:",
+  "alternativas": {
+    "A": "Os veículos que estiverem desenvolvendo maior velocidade.",
+    "B": "No caso de apenas um fluxo ser proveniente de rodovia, aquele que estiver circulando por ela.",
+    "C": "No caso de rotatória, aquele que for ingressar nela.",
+    "D": "Os veículos destinados à transporte de passageiros."
+  },
+  "foto": null,
+  "correta": "B"
+},
+
+{
+  "numero": 17,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os condutores de ciclomotores não poderão circular nas vias:",
+  "alternativas": {
+    "A": "Locais.",
+    "B": "Arteriais.",
+    "C": "De trânsito rápido.",
+    "D": "Coletoras."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 18,
+  "tipo": "normas_circulacao",
+  "pergunta": "Assinale a alternativa correta:",
+  "alternativas": {
+    "A": "Todo veículo poderá retornar em qualquer local, nas vias urbanas, desde que facilite o trânsito para os outros veículos.",
+    "B": "A circulação pelos acostamentos das rodovias é permitida em situações de congestionamento.",
+    "C": "É dever do condutor parar o seu veículo antes de transpor linha férrea ou entrar em via com preferência de passagem.",
+    "D": "Todo condutor deve dar a preferência aos pedestres apenas quando estes se encontram sobre a faixa de segurança."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 19,
+  "tipo": "normas_circulacao",
+  "pergunta": "O cinto de segurança é obrigatório, em todas as vias do território nacional, para:",
+  "alternativas": {
+    "A": "Somente para o condutor.",
+    "B": "Condutor e passageiros do banco dianteiro.",
+    "C": "Condutor e passageiros dos bancos dianteiro e traseiro.",
+    "D": "Condutor e passageiros do banco traseiro."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 21,
+  "tipo": "normas_circulacao",
+  "pergunta": "Classificam-se como vias rurais:",
+  "alternativas": {
+    "A": "Vias arteriais e coletoras.",
+    "B": "Vias coletoras e locais.",
+    "C": "Vias de trânsito rápido, rodovias e estradas.",
+    "D": "Rodovias e estradas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 22,
+  "tipo": "normas_circulacao",
+  "pergunta": "A rodovia é considerada uma via:",
+  "alternativas": {
+    "A": "Trânsito rápido",
+    "B": "Urbana",
+    "C": "Rural",
+    "D": "Arterial."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 23,
+  "tipo": "normas_circulacao",
+  "pergunta": "Os passageiros de motocicletas, motonetas ou ciclomotores só poderão ser transportados:",
+  "alternativas": {
+    "A": "Em carro lateral acoplado ao veículo.",
+    "B": "Todas estão corretas.",
+    "C": "Em assento suplementar atrás do condutor.",
+    "D": "Utilizando capacete de segurança."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 24,
+  "tipo": "normas_circulacao",
+  "pergunta": "Nas vias urbanas, a operação de retorno deverá ser feita:",
+  "alternativas": {
+    "A": "Nos locais determinados ou que ofereçam condições de segurança e fluidez.",
+    "B": "Nas passagens de nível.",
+    "C": "Nas pontes.",
+    "D": "Utilizando-se do acostamento."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "normas_circulacao",
+  "pergunta": "Assinale a alternativa que completa a questão: Nas rodovias, onde não existir sinalização regulamentadora, a velocidade máxima será de: __________ para ônibus e micro-ônibus; __________ para automóveis, camionetas e motocicletas e ___________ para os demais veículos.",
+  "alternativas": {
+    "A": "110 Km/h, 90 Km/h; 80 Km/h.",
+    "B": "80 Km/h; 60 Km/h; 110 Km/h.",
+    "C": "110 Km/h; 80 Km/h; 60 Km/h.",
+    "D": "90 Km/h; 110 Km/h; 80 Km/h."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 26,
+  "tipo": "normas_circulacao",
+  "pergunta": "Para realizar uma conversão à esquerda, em via de mão única, o condutor deve deslocar o veículo:",
+  "alternativas": {
+    "A": "Sem atingir a contramão de direção.",
+    "B": "Totalmente para a faixa esquerda da pista.",
+    "C": "Para a esquerda atingindo o centro do cruzamento e saindo na sua mão de direção.",
+    "D": "Para a direita, observando e dando preferência a quem for de direito, convergindo e saindo na sua mão de direção."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 27,
+  "tipo": "normas_circulacao",
+  "pergunta": "Para entrar em outra via o condutor deve:",
+  "alternativas": {
+    "A": "Ligar o dispositivo luminoso indicador de mudança de direção e assegurar-se de que pode fazer a manobra com segurança.",
+    "B": "Ligar o dispositivo luminoso indicador de mudança de direção e deslocar-se, sempre, para a direita da via.",
+    "C": "Aumentar a velocidade e verificar o movimento dos outros veículos.",
+    "D": "Dar um toque rápido na buzina."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 28,
+  "tipo": "normas_circulacao",
+  "pergunta": "É dever de todo condutor de veículo:",
+  "alternativas": {
+    "A": "Ultrapassar outro veículo em interseções.",
+    "B": "Acionar dispositivo luminoso indicador (luz de seta), antes de mudar de direção.",
+    "C": "Ultrapassar outro veículo.",
+    "D": "Quando se tratar de transporte coletivo, parar o veículo para atender ao sinal do passageiro em qualquer local."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 29,
+  "tipo": "normas_circulacao",
+  "pergunta": "A ultrapassagem pela contramão em ponte, viaduto e túneis é:",
+  "alternativas": {
+    "A": "Proibida a todo condutor de veículo, exceto quando houver sinalização permitindo.",
+    "B": "Permitida, quando houver boa visibilidade.",
+    "C": "Proibida.",
+    "D": "Permitida, quando não houver muita movimentação de veículos."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 30,
+  "tipo": "normas_circulacao",
+  "pergunta": "O procedimento do condutor ao ser ultrapassado em uma rodovia é:",
+  "alternativas": {
+    "A": "Somente diminuir a velocidade.",
+    "B": "Sinalizar, diminuir a velocidade, deslocando para o acostamento.",
+    "C": "Deslocar-se para a faixa da direita e acelerar a marcha.",
+    "D": "Facilitar a ultrapassagem."
+  },
+  "foto": null,
+  "correta": "D"
+},
+
+{
+  "numero": 1,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Assinale a alternativa correta. A força centrípeta, aderência e a transferência de massa, são:",
+  "alternativas": {
+    "A": "Condições adversas.",
+    "B": "Automatismos corretos.",
+    "C": "Leis da física que se relacionam ao ato de dirigir.",
+    "D": "Atos inseguros do motorista."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 2,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Para evitar colisões nos cruzamentos é fundamental:",
+  "alternativas": {
+    "A": "Aumentar a velocidade.",
+    "B": "Olhar primeiro para a direita e avançar.",
+    "C": "Respeitar a preferência.",
+    "D": "Diminuir a velocidade e buzinar."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "direcao_defensiva",
+  "pergunta": "É atitude do condutor defensivo, quando ingerir bebida alcóolica:",
+  "alternativas": {
+    "A": "Dirigir redobrando os cuidados.",
+    "B": "Dirigir, somente, se estiver acompanhado.",
+    "C": "Tomar banho bem frio ou molhar a cabeça para despertar, antes de começar a dirigir.",
+    "D": "Não dirigir o veículo, pedindo a outro condutor habilitado que realize tal atitude."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 4,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A maioria dos acidentes está associada à condição adversa do condutor. A grande maioria deles é causada por:",
+  "alternativas": {
+    "A": "Falhas mecânicas.",
+    "B": "Deficiência da via.",
+    "C": "Falta de sinalização.",
+    "D": "Falhas humanas."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 5,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Assinale a alternativa incorreta. Dirigir na defensiva é:",
+  "alternativas": {
+    "A": "Dirigir atento às ações imprevisíveis dos demais usuários.",
+    "B": "Dirigir impondo os seus direitos.",
+    "C": "Dirigir educado e seguro.",
+    "D": "Dirigir respeitando a legislação."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 6,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Tempo de reação é aquele que transcorre entre:",
+  "alternativas": {
+    "A": "Tempo aproximado de 3/4 de segundo.",
+    "B": "Acionar o freio e parar.",
+    "C": "Ver o perigo e tomar providências.",
+    "D": "Perceber o perigo e parar."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 7,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Valorizar comportamentos necessários à segurança no trânsito é:",
+  "alternativas": {
+    "A": "Desnecessário à segurança no trânsito.",
+    "B": "Dever do governo e não dos condutores.",
+    "C": "Demonstração de respeito à pessoa humana.",
+    "D": "A necessidade de desconsiderar as diferenças individuais."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 8,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O condutor que, na direção do veículo, evita situações de acidentes ao trafegar com as devidas margens de segurança, estará fazendo uma 'direção defensiva'.",
+  "alternativas": {
+    "A": "Corretiva.",
+    "B": "Avaliativa.",
+    "C": "Participativa.",
+    "D": "Preventiva."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 9,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Assinale a alternativa que responda à questão. A chuva é condição adversa do ______, lâmina d'água na pista é condição adversa da ______, possibilitando a ocorrência de hidroplanagem que pode ser aumentada por determinadas condições adversas do ______.",
+  "alternativas": {
+    "A": "Veículo; via; condutor.",
+    "B": "Tempo; via; veículo.",
+    "C": "Condutor; máquina; passageiro.",
+    "D": "veículo; chuva; tempo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 10,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Automatismo correto significa:",
+  "alternativas": {
+    "A": "Atenção fixa.",
+    "B": "Atenção dispersiva.",
+    "C": "Gesto inconsciente efetuado de forma segura.",
+    "D": "Indisciplina na condução do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 11,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Fator que não altera a aderência é:",
+  "alternativas": {
+    "A": "Tipo de solo.",
+    "B": "Tipo de combustível.",
+    "C": "Chuva.",
+    "D": "Calibragem dos pneus."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O procedimento correto em um declive acentuado é:",
+  "alternativas": {
+    "A": "Utilizar o 'ponto morto'.",
+    "B": "Utilizar a mesma marcha que seria necessária no caso de um aclive acentuado.",
+    "C": "Testar o acelerador e desengrenar o veículo.",
+    "D": "Desligar o motor do veículo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 13,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Chove forte e o limpador de parabrisa de seu veículo não está sendo suficiente para manter a visibilidade. Nessa situação você:",
+  "alternativas": {
+    "A": "Abre as janelas e prossegue o trajeto.",
+    "B": "Acelera mais para dissipar os pingos de chuva.",
+    "C": "Para o veículo em local seguro e aguarda.",
+    "D": "Liga os faróis altos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 14,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não é causa da diminuição da aderência do veículo com o solo:",
+  "alternativas": {
+    "A": "Óleo na pista.",
+    "B": "Excesso de velocidade.",
+    "C": "Pista escorregadia.",
+    "D": "Pneus em bom estado de conservação."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 15,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Dirigindo um veículo, ao se aproximar de um cruzamento com sinal luminoso, você observa que a luz vermelha está acesa. Neste caso, você deve:",
+  "alternativas": {
+    "A": "Diminuir a velocidade do veículo e passar.",
+    "B": "Diminuir a velocidade e parar o veículo.",
+    "C": "Observar o tráfego dos veículos e passar.",
+    "D": "Frear bruscamente o veículo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 16,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Direção defensiva é o ato de dirigir buscando, sempre:",
+  "alternativas": {
+    "A": "Não se preocupar com a aproximação de outros veículos.",
+    "B": "Utilizar o pisca-alerta em qualquer situação.",
+    "C": "A eliminação dos fatores de riscos que podem levar à ocorrência de acidentes.",
+    "D": "Utilizar o freio somente quando for parar o veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+
+{
+  "numero": 17,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou deficientes físicos atravessando a via deve:",
+  "alternativas": {
+    "A": "Diminuir a velocidade, buzinar e seguir em frente.",
+    "B": "Diminuir a velocidade, desviar e seguir em frente.",
+    "C": "Parar o veículo e facilitar a travessia.",
+    "D": "Ignorá-los."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 18,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O contato dos pneus com o solo é chamado de:",
+  "alternativas": {
+    "A": "Aderência.",
+    "B": "Derrapagem.",
+    "C": "Aquaplanagem.",
+    "D": "Hidroplanagem."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 19,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O acidente que envolve, apenas, um veículo e que não se conhecem suas possíveis causas chama-se:",
+  "alternativas": {
+    "A": "Colisão misteriosa.",
+    "B": "Colisão em uma passagem de nível (via férrea).",
+    "C": "Colisão com animais.",
+    "D": "Atropelamento."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 20,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O condutor que dirige com segurança é aquele que:",
+  "alternativas": {
+    "A": "Circula em alta velocidade em qualquer situação.",
+    "B": "Ultrapassa outro veículo pela direita.",
+    "C": "Circula com velocidade adequada à via.",
+    "D": "Circula, sempre, pela faixa da direita."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 21,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Uma das reações defensivas de um condutor, ao perceber a iminência de uma colisão frontal, é:",
+  "alternativas": {
+    "A": "Encostar ao máximo para a direita da pista.",
+    "B": "Ligar o pisca-alerta.",
+    "C": "Deslocar-se para o acostamento da esquerda.",
+    "D": "Aumentar a velocidade."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 22,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Nos dias de período chuvoso não é conveniente:",
+  "alternativas": {
+    "A": "Trafegar com o pisca-alerta acionado.",
+    "B": "Aumentar a distância de segurança para com os veículos que seguem à frente.",
+    "C": "Acender pelo menos as luzes de posição.",
+    "D": "Sinalizar com maior abundância, suas intenções de mudança de direção."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 23,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Se um condutor de veículo deparar, no trânsito, com outro condutor agindo de forma incorreta e que venha a prejudicá-lo, deve:",
+  "alternativas": {
+    "A": "Fazer valer seu direito.",
+    "B": "Ceder seu direito para evitar consequências maiores.",
+    "C": "Ceder a vez e logo à frente, castigar o condutor infrator com uma 'fechada'.",
+    "D": "Deixar que o acidente aconteça para fazê-lo pagar pelo erro."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 24,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A atitude correta para o condutor defensivo evitar acidente com o pedestre é:",
+  "alternativas": {
+    "A": "Conceder o direito de passagem ao pedestre, sempre.",
+    "B": "Buzinar, indicando perigo.",
+    "C": "Acender os faróis, quando avistar pedestres na pista.",
+    "D": "Respeitar o pedestre, apenas, se o mesmo estiver atravessando na faixa apropriada."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 25,
+  "tipo": "direcao_defensiva",
+  "pergunta": "São tipos de direção defensiva:",
+  "alternativas": {
+    "A": "Disciplinar e Legal.",
+    "B": "Preventiva e Corretiva.",
+    "C": "Eficiente e Utilitária.",
+    "D": "Segura e Insegura."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 26,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Manter uma distância do veículo da frente é uma:",
+  "alternativas": {
+    "A": "Condição segura para que o condutor tenha tempo de reagir e acionar os freios, bruscamente, diante de situação de emergência.",
+    "B": "Conduta errada do condutor defensivo.",
+    "C": "Condição segura para que o condutor tenha tempo de reagir e acionar os freios diante de situação de emergência.",
+    "D": "Conduta que contraria as normas de direção defensiva."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 27,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Direção Defensiva leva o condutor a:",
+  "alternativas": {
+    "A": "Dirigir indiferentemente quanto aos demais usuários.",
+    "B": "Dirigir com atenção dispersiva.",
+    "C": "Dirigir com educação, segurança e eficiência.",
+    "D": "Dirigir com atenção fixa."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 28,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não são técnicas adequadas para a realização de uma ultrapassagem segura:",
+  "alternativas": {
+    "A": "Realizar sinalização clara e redobrar a atenção.",
+    "B": "Manter distância de segurança, antes de iniciar a manobra.",
+    "C": "Planejar o espaço necessário para a manobra completa.",
+    "D": "A ultrapassagem pelo acostamento."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 29,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Quando você estiver conduzindo um veículo lembre-se de que, também, é passageiro e pedestre. Assim, deve:",
+  "alternativas": {
+    "A": "Ultrapassar veículos parados em fila, que estejam aguardando a abertura do sinal luminoso.",
+    "B": "Ultrapassar outro veículo em pontes e viadutos.",
+    "C": "Dar prioridade de passagem aos pedestres, apenas, quando atravessar a calçada para entrar em algum estacionamento.",
+    "D": "Dar preferência de passagem aos pedestres que estiverem nas faixas de segurança, onde não existir sinal luminoso."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 30,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não é comportamento do condutor defensivo:",
+  "alternativas": {
+    "A": "Respeitar as leis e normas de trânsito.",
+    "B": "Dirigir em velocidade compatível com a segurança.",
+    "C": "Ser cortez e educado.",
+    "D": "Avisar aos outros condutores sobre seus erros."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 1,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Fadiga, alcoolismo, sono, são exemplos de condições adversas do:",
+  "alternativas": {
+    "A": "Pedestre.",
+    "B": "Patrulheiro.",
+    "C": "Passageiro.",
+    "D": "Condutor."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 2,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O estudo para aprimoramento dos veículos, a fim de torná-los mais confortáveis e seguros, denomina-se:",
+  "alternativas": {
+    "A": "Ergometria.",
+    "B": "Geometria.",
+    "C": "Ergonomia.",
+    "D": "Hipotemia."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Quando as rodas perdem o contato com o piso devido a camada de água entre o pneu e o solo, ocorre um(a):",
+  "alternativas": {
+    "A": "Condição adversa do tempo.",
+    "B": "Derrapagem.",
+    "C": "Aquaplanagem.",
+    "D": "Subesterçamento."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 4,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O procedimento correto do condutor, ao ver refletido no retrovisor interno do seu veículo a luz do farol do veículo que vem atrás, é:",
+  "alternativas": {
+    "A": "Ajustar os retrovisores externos.",
+    "B": "Ajustar o retrovisor interno para desviar o facho de luz.",
+    "C": "Aumentar a velocidade do veículo.",
+    "D": "Retirar o retrovisor interno para evitar o ofuscamento."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 5,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não constitui fundamento da prevenção de acidente:",
+  "alternativas": {
+    "A": "Interação.",
+    "B": "Conhecimento.",
+    "C": "Atenção.",
+    "D": "Decisão."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 6,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Assinale a alternativa correta. Frenagem de emergência é:",
+  "alternativas": {
+    "A": "Travamento das rodas.",
+    "B": "Arrastamento dos pneus, sem deixar marcas no solo.",
+    "C": "Redução moderada da velocidade do veículo.",
+    "D": "Redução imediata da velocidade do veículo no menor tempo possível."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 7,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não constitui causa da colisão em cruzamentos:",
+  "alternativas": {
+    "A": "Má visibilidade.",
+    "B": "Obediência à sinalização.",
+    "C": "Excesso de velocidade.",
+    "D": "Manobras inesperadas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 8,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A posição correta ao dirigir produz menos desgaste físico e aumenta a sua segurança. Assinale a alternativa que corresponda ao enunciado.",
+  "alternativas": {
+    "A": "Segure o volante com as duas mãos, na posição sobreposta de 15 horas.",
+    "B": "Segure o volante com as duas mãos pela parte interna do volante.",
+    "C": "Segure o volante com as duas mãos, como os ponteiros do relógio na posição imaginária de 9 horas e 15 minutos.",
+    "D": "Não se exige posição correta das mãos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 9,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Debrear significa:",
+  "alternativas": {
+    "A": "Acelerar fortemente.",
+    "B": "Diminuir a rotação do motor.",
+    "C": "Acelerar fracamente.",
+    "D": "Pisar no pedal da embreagem."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 10,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Visão deficiente, audição deficiente, perturbação física, são exemplos de condições adversas do:",
+  "alternativas": {
+    "A": "Agente de trânsito.",
+    "B": "Condutor.",
+    "C": "Pedestre.",
+    "D": "Passageiro."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 11,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A 'regra dos dois segundos' serve para:",
+  "alternativas": {
+    "A": "Avaliar a distância lateral de segurança.",
+    "B": "Avaliar a distância correta de segurança.",
+    "C": "Avaliar a distância necessária entre seu veículo e o semáforo.",
+    "D": "Avaliar a distância necessária para parar no acostamento."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A finalidade da direção defensiva é a condução:",
+  "alternativas": {
+    "A": "De automatismos incorretos.",
+    "B": "Sem interferência do autocontrole.",
+    "C": "Em alta velocidade.",
+    "D": "De forma educada e segura."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 13,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A força que tende a jogar o veículo para fora da curva denomina-se:",
+  "alternativas": {
+    "A": "Centrípeta.",
+    "B": "Molecular.",
+    "C": "Misteriosa.",
+    "D": "Centrífuga."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 14,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A atitude defensiva de um condutor, ao se aproximar de um cruzamento não sinalizado, é:",
+  "alternativas": {
+    "A": "Ficar atento e acelerar o máximo que puder.",
+    "B": "Avisar ao motorista da retaguarda que vai frear.",
+    "C": "Ficar atento para parar, se necessário, colocando o pé sobre o pedal de freio.",
+    "D": "Não se preocupar, quando transitando por vias preferenciais."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não constitui exemplo de condições adversas no contexto viário:",
+  "alternativas": {
+    "A": "Estação chuvosa e fria.",
+    "B": "Trânsito com fluxo lento.",
+    "C": "Trecho da rodovia submetido a obras de restauração do pavimento.",
+    "D": "Motociclista conduzindo uma motocicleta, pela manhã, rumo ao seu trabalho."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 16,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Constitui atitude incorreta do condutor que tenha ingerido bebida alcoólica, ainda que em pouca quantidade:",
+  "alternativas": {
+    "A": "Ainda que se considere perfeitamente normal, evitar a condução de veículos.",
+    "B": "Solicitar que outra pessoa dirija por ele.",
+    "C": "Tomar café bem quente e prosseguir a viagem com atenção redobrada.",
+    "D": "Voltar para casa utilizando-se de um táxi."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 17,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Constituem alguns equipamentos e sistemas do veículo importantes para evitar situações de perigo que podem levar a acidentes de trânsito:",
+  "alternativas": {
+    "A": "Freios e pneus.",
+    "B": "Iluminação e lanternas indicadoras de direção.",
+    "C": "Suspensão e sistema de direção.",
+    "D": "Todas as alternativas estão corretas."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 18,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Para manter, sempre, o seu veículo em condições seguras, é importante fazer:",
+  "alternativas": {
+    "A": "Manutenção somente, quando apresentar desgaste de algum componente.",
+    "B": "Manutenção periódica e preventiva.",
+    "C": "Troca do óleo lubrificante diariamente.",
+    "D": "Verificar, diariamente, a calibragem dos pneus."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 19,
+  "tipo": "direcao_defensiva",
+  "pergunta": "As alterações exigidas nos limites de velocidade estabelecidos nas vias, variam de acordo com as condições:",
+  "alternativas": {
+    "A": "Da condição física da via.",
+    "B": "Todas as alternativas estão corretas.",
+    "C": "Do veículo e da carga.",
+    "D": "Das condições meteorológicas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 20,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Ao passar por um trecho da via escorregadio, o procedimento correto do condutor é:",
+  "alternativas": {
+    "A": "Reduzir a velocidade com freadas bruscas.",
+    "B": "Reduzir a velocidade, com antecedência, firmar a direção e redobrar a atenção.",
+    "C": "Reduzir a velocidade efetuando mudanças abruptas da direção.",
+    "D": "Todas as opções estão corretas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 21,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O melhor tipo de cinto de segurança é:",
+  "alternativas": {
+    "A": "Diagonal.",
+    "B": "Três pontos.",
+    "C": "Dois pontos.",
+    "D": "Subabdominal."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 22,
+  "tipo": "direcao_defensiva",
+  "pergunta": "No acostamento é proibido:",
+  "alternativas": {
+    "A": "Parar ou estacionar veículos em situação de emergência.",
+    "B": "Circular pedestres.",
+    "C": "Parar para realizar manobras.",
+    "D": "Trafegar com veículos automotores."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 23,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Antes de efetuar uma viagem, o condutor deverá verificar os itens:",
+  "alternativas": {
+    "A": "Nível de óleo lubrificante e água do radiador.",
+    "B": "Palhetas do limpador de parabrisa e funcionamento dos faróis.",
+    "C": "Luzes indicativas de direção e luz de freio.",
+    "D": "Todas as alternativas estão corretas."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 24,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O motociclista circulando em piso molhado ou cheio de areia deve:",
+  "alternativas": {
+    "A": "Utilizar, somente, o freio dianteiro.",
+    "B": "Utilizar os freios traseiro e dianteiro de forma brusca.",
+    "C": "Utilizar, somente, o freio traseiro.",
+    "D": "Utilizar os freios dianteiro e traseiro de forma muito suave."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Os retrovisores externos têm por finalidade:",
+  "alternativas": {
+    "A": "Reduzir a possibilidade de 'pontos cegos' ou sem alcance visual.",
+    "B": "Todas as alternativas estão corretas.",
+    "C": "Auxiliar o condutor na execução de manobras.",
+    "D": "Auxiliar no deslocamento lateral."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 26,
+  "tipo": "direcao_defensiva",
+  "pergunta": "O cinto de segurança é um equipamento que deve ser usado:",
+  "alternativas": {
+    "A": "Pelo condutor e passageiro do banco dianteiro.",
+    "B": "Pelos passageiros dos bancos traseiros.",
+    "C": "Pelos ocupantes do veículo, excetuando gestantes e crianças.",
+    "D": "Por todos os ocupantes do veículo."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 27,
+  "tipo": "direcao_defensiva",
+  "pergunta": "A velocidade que permite ao condutor reagir diante de um obstáculo, um pedestre ou outro veículo é a:",
+  "alternativas": {
+    "A": "Máxima permitida para a via onde está circulando.",
+    "B": "Compatível com as características da via onde está circulando.",
+    "C": "Máxima de 80 Km/h, de acordo com a legislação de trânsito.",
+    "D": "De 30 Km/h, em qualquer via."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 28,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Não é efeito direto dos acidentes de trânsito:",
+  "alternativas": {
+    "A": "Danos pessoais e materiais.",
+    "B": "Pagamento de indenização pelo estado ou pelo particular.",
+    "C": "Pagamento do Seguro Obrigatório.",
+    "D": "Morte."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 29,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Assinale a alternativa que responda a questão: Crianças com até ____ anos de idade, somente, podem ser transportadas no banco _________, acomodadas em dispositivos de retenção afixado ao cinto de segurança do veículo.",
+  "alternativas": {
+    "A": "07; dianteiro.",
+    "B": "10; dianteiro.",
+    "C": "10; traseiro.",
+    "D": "12; traseiro."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 30,
+  "tipo": "direcao_defensiva",
+  "pergunta": "Para garantir a estabilidade da motocicleta nas curvas, o condutor deverá solicitar ao 'carona' que:",
+  "alternativas": {
+    "A": "Movimente o corpo da mesma maneira que o condutor.",
+    "B": "Movimente o corpo em sentido contrário ao do condutor.",
+    "C": "Mantenha-se em posição reta.",
+    "D": "A posição do 'carona' não interfere na estabilidade da motocicleta."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 1,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não é correto adotar a seguinte conduta para imobilização em caso de fratura:",
+  "alternativas": {
+    "A": "Antes de imobilizar, puxar o membro colocando-o na posição natural.",
+    "B": "Aplicar panos limpos sobre as fraturas expostas.",
+    "C": "Manter a vítima deitada.",
+    "D": "O comprimento de uma tala deverá ser suficiente para imobilizar, também, a articulação."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 2,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Em caso de acidente:",
+  "alternativas": {
+    "A": "É obrigação de todos retirar, imediatamente, o veículo do local.",
+    "B": "Não existe obrigação legal em socorrer.",
+    "C": "É obrigação de todos prestar ou providenciar auxílio, desde que não corra risco pessoal.",
+    "D": "É obrigação de socorrer, apenas, o causador do acidente."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Embora cada acidente tenha suas circunstâncias peculiares, algumas medidas devem ser tomadas pelo socorrista, dentre elas:",
+  "alternativas": {
+    "A": "Aliviar a dor, oferecendo analgésico à vítima.",
+    "B": "Assumir a situação de emergência.",
+    "C": "Transportar a vítima em qualquer situação.",
+    "D": "Oferecer líquido à vítima."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 4,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Em caso de acidente com vítima, qualquer cidadão deve:",
+  "alternativas": {
+    "A": "Retirar a vítima de dentro do veículo imediatamente.",
+    "B": "Transportar a vítima imediatamente.",
+    "C": "Sinalizar o local e solicitar atendimento especializado às vítimas.",
+    "D": "Afastar-se do local imediatamente."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 5,
+  "tipo": "primeiros_socorros",
+  "pergunta": "O melhor local no corpo para se verificar a pulsação é:",
+  "alternativas": {
+    "A": "No pescoço.",
+    "B": "No pé.",
+    "C": "No punho.",
+    "D": "Em alguma veia saliente."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 6,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não sendo possível, a chegada imediata do resgate, o cuidado indicado na presença de sangramento abundante é:",
+  "alternativas": {
+    "A": "Dar bastante líquido para a pessoa ir tomando.",
+    "B": "Fazer compressão no local do sangramento.",
+    "C": "Jogar bastante água oxigenada para coagular e limpar o ferimento.",
+    "D": "Deixar o sangramento parar sozinho."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 7,
+  "tipo": "primeiros_socorros",
+  "pergunta": "O procedimento correto com o acidentado que sofreu queimaduras é:",
+  "alternativas": {
+    "A": "Esfrie a área com água sanitária.",
+    "B": "Passar pasta de dente na ferida.",
+    "C": "Cobrir a ferida com um pano úmido.",
+    "D": "Dar leite para a pessoa tomar."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 8,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não constitui requisito obrigatório a um socorrista:",
+  "alternativas": {
+    "A": "Ser solidário.",
+    "B": "Ser firme e dedicado.",
+    "C": "Ser calmo.",
+    "D": "Ser da área de saúde."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 9,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações do:",
+  "alternativas": {
+    "A": "Ciclista.",
+    "B": "Socorrista.",
+    "C": "Pedestre.",
+    "D": "Passageiro."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 10,
+  "tipo": "primeiros_socorros",
+  "pergunta": "SAMU significa:",
+  "alternativas": {
+    "A": "Seção de Atendimento Médico Urbano.",
+    "B": "Serviço de Auxílio Médico de Urgência.",
+    "C": "Seção de Auxílio Móvel ao Usuário.",
+    "D": "Serviço de Atendimento Móvel de Urgência."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 11,
+  "tipo": "primeiros_socorros",
+  "pergunta": "O sinal vital que não varia com a idade é:",
+  "alternativas": {
+    "A": "Temperatura.",
+    "B": "Pulso.",
+    "C": "Respiração.",
+    "D": "Pressão arterial."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 12,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não constitui procedimento correto com uma vítima em estado de choque:",
+  "alternativas": {
+    "A": "Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+    "B": "Afrouxar suas roupas.",
+    "C": "Manter a respiração.",
+    "D": "Dar bastante líquido à vítima inconsciente que vomitou."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 13,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Em um acidente de trânsito com vítima, o que se deve fazer:",
+  "alternativas": {
+    "A": "Tentar conversar com a vítima.",
+    "B": "Movimentar a vítima.",
+    "C": "Fazer torniquete.",
+    "D": "Retirar o capacete do motociclista."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 14,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Nas hemorragias externas devemos:",
+  "alternativas": {
+    "A": "Fazer torniquete para conter o sangramento.",
+    "B": "Dar líquido para a vítima ingerir.",
+    "C": "Evitar contato direto com o sangue da vítima.",
+    "D": "Movimentar a vítima."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "primeiros_socorros",
+  "pergunta": "A incapacidade de reagir a estímulos nas pernas e nos braços, após um acidente é indício de:",
+  "alternativas": {
+    "A": "Traumatismo Femural.",
+    "B": "Lesão de coluna.",
+    "C": "Traumatismo Radial.",
+    "D": "Lesão da cabeça."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 16,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não é procedimento em caso de amputação de membro:",
+  "alternativas": {
+    "A": "Fazer compressão no local, para conter o sangramento.",
+    "B": "Colocar, a parte amputada, em um saco plástico.",
+    "C": "Colocar, a parte amputada, diretamente no gelo.",
+    "D": "Levar, a parte amputada, com a vítima para o hospital."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 17,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não constitui medida básica para prestar assistência à vítima de acidente, após ter sinalizado o local:",
+  "alternativas": {
+    "A": "Assumir a situação.",
+    "B": "Proteger o acidentado.",
+    "C": "Verificar, primeiramente, os sinais vitais.",
+    "D": "Determinar que o acidentado busque socorro."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 18,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Vítima de acidente pede água para beber. Nessa situação, você deve:",
+  "alternativas": {
+    "A": "Mantê-la em jejum.",
+    "B": "Dar bastante líquido para hidratar a vítima.",
+    "C": "Deixá-la beber, apenas o que quiser.",
+    "D": "Dar leite ou líquido adocicados, de preferência."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 19,
+  "tipo": "primeiros_socorros",
+  "pergunta": "O procedimento correto na impossibilidade da presença do Resgate, quando a vítima apresenta objeto empalado no ferimento de acidente de trânsito, é:",
+  "alternativas": {
+    "A": "Proteger o ferimento com bandagens e retire o objeto.",
+    "B": "Proteger o ferimento com bandagens e não retire o objeto.",
+    "C": "Remover o objeto empalado e controle o sangramento.",
+    "D": "Remover o objeto empalado e lave o ferimento com água e sabão."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 20,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Vítima que usava cinto de segurança está inconsciente dentro do veículo. Nessa situação você deve:",
+  "alternativas": {
+    "A": "Sinalizar o local e chamar o resgate.",
+    "B": "Retirar o cinto de segurança.",
+    "C": "Retirar a vítima do veículo e deitá-la.",
+    "D": "Se for banco reclinável, incliná-lo o máximo possível."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 21,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Não constitui procedimento correto diante de acidente de trânsito, com vítima:",
+  "alternativas": {
+    "A": "Arrastar a vítima do local do acidente.",
+    "B": "Sinalizar o local, para evitar novos acidentes.",
+    "C": "Acionar o pisca-alerta dos veículos próximo ao local.",
+    "D": "Definir a melhor colocação do triângulo."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 22,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Ao transportar uma vítima é incorreto:",
+  "alternativas": {
+    "A": "Manter a vítima em jejum.",
+    "B": "Transportar a vítima imobilizada.",
+    "C": "Manter, a qualquer custo, a vítima acordada.",
+    "D": "Manter as vias aéreas livres, desobstruídas."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 23,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Para evitar agravamento do acidente de trânsito como novas colisões, atropelamento ou incêndios, deve-se de imediato tomar a seguinte providência:",
+  "alternativas": {
+    "A": "Sinalizar o local.",
+    "B": "Retirar a vítima do veículo.",
+    "C": "Retirar o veículo do local.",
+    "D": "Verificar a situação das vítimas."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 24,
+  "tipo": "primeiros_socorros",
+  "pergunta": "São serviços gratuitos de atendimento às emergências que podem ser acionados em caso de acidente:",
+  "alternativas": {
+    "A": "Corpo de Bombeiros, reboque, Defesa Civil.",
+    "B": "Corpo de Bombeiros, DER, Polícia Militar.",
+    "C": "Corpo de Bombeiros, plano de saúde, hospital mais próximo.",
+    "D": "Corpo de Bombeiros, SAMU, Polícia Militar."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 25,
+  "tipo": "primeiros_socorros",
+  "pergunta": "As ações, a serem realizadas pelo socorrista no local do acidente:",
+  "alternativas": {
+    "A": "Retirar o veículo do local, sinalizar o local.",
+    "B": "Retirar a vítima do veículo, sinalizar o local.",
+    "C": "Pedir socorro, controlar a situação, verificar a situação das vítimas.",
+    "D": "Medir a pressão arterial e dar líquido à vítima."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 26,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Em acidentes de trânsito, afastar os curiosos, se for seguro, desligar o motor do veículo envolvido e orientar para que não fumem no local. É uma ação do socorrista para a possibilidade de ocorrência de:",
+  "alternativas": {
+    "A": "Atropelamento.",
+    "B": "Incêndio.",
+    "C": "Óleo e/ou obstáculo na pista.",
+    "D": "Cabos de eletricidade caindo no local."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 27,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Em acidente automobilístico envolvendo veículo com passageiros e fio elétrico caído sobre o veículo, os passageiros deverão, até ser desligada a energia:",
+  "alternativas": {
+    "A": "Serem retirados imediatamente.",
+    "B": "Sair um a um do veículo.",
+    "C": "Afastar o veículo do fio elétrico.",
+    "D": "Permanecer no veículo."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 28,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Ao acionar o serviço de atendimento, o socorrista não deverá passar as seguintes informações:",
+  "alternativas": {
+    "A": "Gravidade aparente do acidente.",
+    "B": "Nome da rua ou rodovia e número próximo.",
+    "C": "Endereço e número do telefone da vítima.",
+    "D": "Tipo de acidente, se envolve carro, motocicleta, colisão, atropelamento etc."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 29,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Uma vítima de acidente de trânsito está gritando, com muita dor. Nessa situação, você deve:",
+  "alternativas": {
+    "A": "Dar remédio para dor.",
+    "B": "Fazer compressas geladas no local da dor.",
+    "C": "Fazer compressas quentes no local da dor.",
+    "D": "Esperar a chegada do resgate."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 30,
+  "tipo": "primeiros_socorros",
+  "pergunta": "Conter o sangramento com gaze estéril, sem aplicar pressão direta e chamar o resgate é procedimento adequado em caso de:",
+  "alternativas": {
+    "A": "Parada respiratória.",
+    "B": "Acidente em que a vítima apresenta fratura aberta com sangramento.",
+    "C": "Parada cardíaca.",
+    "D": "Crise convulsiva."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 1,
+  "tipo": "meio_ambiente",
+  "pergunta": "As inspeções periódicas de emissão de gases, nos veículos automotores e indústrias, podem ajudar a melhorar as condições de vida dos habitantes dos centros urbanos, pois objetivam:",
+  "alternativas": {
+    "A": "Contribuir para a segurança dos veículos.",
+    "B": "Reduzir as emissões dos poluentes.",
+    "C": "Diminuir o desgaste do motor.",
+    "D": "Diminuir a emissão de ozônio."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 2,
+  "tipo": "meio_ambiente",
+  "pergunta": "Substâncias corrosivas são aquelas:",
+  "alternativas": {
+    "A": "Que causam danos ambientais.",
+    "B": "Que não apresentam riscos para os seres vivos.",
+    "C": "Que não contém micro-organismos infecciosos.",
+    "D": "Que não oferecem perigo em contato com a pele."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 3,
+  "tipo": "meio_ambiente",
+  "pergunta": "Os rótulos de risco identificados na planilha, com o título MOPE, são usados nos veículos destinados ao transporte de:",
+  "alternativas": {
+    "A": "Produtos artesanais.",
+    "B": "Cargas indivisíveis.",
+    "C": "Cargas perecíveis.",
+    "D": "Produtos perigosos."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 4,
+  "tipo": "meio_ambiente",
+  "pergunta": "Um dos principais problemas urbanos é o excesso de emissão de ruídos (poluição sonora). Os proprietários de veículos podem ajudar na redução deste problema, desde que:",
+  "alternativas": {
+    "A": "Regulem periodicamente o motor.",
+    "B": "Mantenham o silenciador em bom estado.",
+    "C": "Todas as respostas estão corretas.",
+    "D": "Não utilizem livremente os dispositivos sonoros dos veículos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 5,
+  "tipo": "meio_ambiente",
+  "pergunta": "O órgão coordenador do meio ambiente em todo o Território Nacional é o:",
+  "alternativas": {
+    "A": "INMETRO.",
+    "B": "CONAMA.",
+    "C": "DETRAN.",
+    "D": "DENATRAN."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 6,
+  "tipo": "meio_ambiente",
+  "pergunta": "Nas grandes cidades, as principais fontes de poluição do ar são:",
+  "alternativas": {
+    "A": "As queimadas.",
+    "B": "A queima de carvão.",
+    "C": "Os automóveis e as indústrias.",
+    "D": "Os incineradores."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 7,
+  "tipo": "meio_ambiente",
+  "pergunta": "Exercitar a cidadania é:",
+  "alternativas": {
+    "A": "Manter, sempre, os faróis altos acesos.",
+    "B": "Jogar lixo ou qualquer objeto pela janela do veículo.",
+    "C": "Danificar as plantações às margens das vias rurais.",
+    "D": "Preservar a natureza, usufruindo dos recursos que nos é dado."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 8,
+  "tipo": "meio_ambiente",
+  "pergunta": "O veículo automotor para não poluir o ambiente, precisa trafegar:",
+  "alternativas": {
+    "A": "Emitindo gases poluentes acima do permitido.",
+    "B": "Emitindo fuligem.",
+    "C": "Com o motor regulado.",
+    "D": "Com o sistema de escapamento danificado."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 9,
+  "tipo": "meio_ambiente",
+  "pergunta": "A chuva ácida provoca:",
+  "alternativas": {
+    "A": "Crescimento das florestas.",
+    "B": "Derretimento das calotas polares.",
+    "C": "Desertificação.",
+    "D": "Conservação das estruturas de mármore."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 10,
+  "tipo": "meio_ambiente",
+  "pergunta": "O condutor para transportar um produto perigoso deve se submeter ao Curso de Treinamento denominado:",
+  "alternativas": {
+    "A": "DD - Direção Defensiva.",
+    "B": "MOPE - Movimentação de Produtos Especiais.",
+    "C": "PS - Primeiros Socorros.",
+    "D": "MA - Meio Ambiente."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 11,
+  "tipo": "meio_ambiente",
+  "pergunta": "O meio ambiente engloba em seus estudos gerais:",
+  "alternativas": {
+    "A": "O homem, a natureza e os catalisadores.",
+    "B": "O homem, a natureza e os poluentes.",
+    "C": "O homem, as perspectivas teóricas e as mutações da fauna.",
+    "D": "O homem, a natureza e seus elementos."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 12,
+  "tipo": "meio_ambiente",
+  "pergunta": "São fatores que contribuem para melhorar o meio ambiente:",
+  "alternativas": {
+    "A": "Todas as alternativas estão corretas.",
+    "B": "Fazer manutenção periódica nos veículos.",
+    "C": "Reciclagem de materiais.",
+    "D": "Redução de gases poluentes através da colocação de filtros."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 13,
+  "tipo": "meio_ambiente",
+  "pergunta": "A má conservação e a regulagem inadequada dos veículos:",
+  "alternativas": {
+    "A": "Contribuem, principalmente, para a poluição do ar e a poluição sonora.",
+    "B": "Contribuem para a poluição da água, apenas.",
+    "C": "Não agridem o meio ambiente.",
+    "D": "Acarretam, única e exclusivamente, o desgaste do veículo."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 14,
+  "tipo": "meio_ambiente",
+  "pergunta": "Somos cidadãos quando:",
+  "alternativas": {
+    "A": "Sempre percebemos atitudes inadequadas dos outros e ignoramos as nossas.",
+    "B": "Buzinamos para avisar o condutor da frente, que o sinal está aberto.",
+    "C": "Temos um comportamento positivo, eficaz, contribuindo sempre para a segurança de todos.",
+    "D": "Estacionamos em local proibido, mesmo que seja por alguns minutos."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "meio_ambiente",
+  "pergunta": "Não é órgão ambiental:",
+  "alternativas": {
+    "A": "IBAMA.",
+    "B": "CONAMA.",
+    "C": "FEAM.",
+    "D": "CIRETRAN."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 16,
+  "tipo": "meio_ambiente",
+  "pergunta": "Assinale a alternativa correta. Dos elementos, abaixo citados, não contribui para a poluição do ar:",
+  "alternativas": {
+    "A": "Fuligem.",
+    "B": "Vapor de água.",
+    "C": "Queimadas.",
+    "D": "Monóxido de carbono."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 17,
+  "tipo": "meio_ambiente",
+  "pergunta": "É uma vantagem da utilização do álcool como combustível:",
+  "alternativas": {
+    "A": "Maior consumo por quilômetro rodado.",
+    "B": "Apresentar pequenos problemas de partida quando frio.",
+    "C": "Ser menos poluente.",
+    "D": "Aumenta a corrosão interna."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 18,
+  "tipo": "meio_ambiente",
+  "pergunta": "Cidadania é:",
+  "alternativas": {
+    "A": "A qualidade ou estado de cidadão.",
+    "B": "O conjunto de elementos naturais e a vida em todas as formas.",
+    "C": "O desenvolvimento desequilibrado do cidadão.",
+    "D": "O meio ambiente hostil."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 19,
+  "tipo": "meio_ambiente",
+  "pergunta": "Os gases emitidos pelos veículos são perigosos para a saúde do homem porque podem:",
+  "alternativas": {
+    "A": "Causar irritação nos olhos e garganta.",
+    "B": "Agravar moléstias respiratórias como asma e bronquite.",
+    "C": "Provocar dores de cabeça e enjôo.",
+    "D": "Todas as alternativas estão corretas."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 20,
+  "tipo": "meio_ambiente",
+  "pergunta": "Quando o acidente envolve cargas perigosas e liberação de produtos químicos no meio ambiente, deve-se, primeiramente:",
+  "alternativas": {
+    "A": "Isolar rapidamente o local, avaliar o perigo para si mesmo e depois tentar o socorro.",
+    "B": "Acionar um caminhão pipa para jogar água, limpar e liberar rapidamente a rodovia.",
+    "C": "Tentar liberar parte da rodovia sinalizando o local.",
+    "D": "Se não houver risco de explosão, socorrer as vítimas sem outros receios."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 21,
+  "tipo": "meio_ambiente",
+  "pergunta": "A emissão de sons, ruídos e vibrações que prejudicam a saúde e o bem estar público, estão contidos na:",
+  "alternativas": {
+    "A": "Poluição sonora.",
+    "B": "Poluição do solo.",
+    "C": "Poluição da água.",
+    "D": "Poluição do ar."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 22,
+  "tipo": "meio_ambiente",
+  "pergunta": "O trânsito em condições seguras é um direito:",
+  "alternativas": {
+    "A": "Das pedestres.",
+    "B": "Dos motoristas de transporte coletivo.",
+    "C": "De todos.",
+    "D": "Dos animais."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 23,
+  "tipo": "meio_ambiente",
+  "pergunta": "Ruído é um tipo de poluição:",
+  "alternativas": {
+    "A": "Radioativa.",
+    "B": "Atmosférica.",
+    "C": "Sonora.",
+    "D": "Aquática."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 24,
+  "tipo": "meio_ambiente",
+  "pergunta": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+  "alternativas": {
+    "A": "Providenciar, o mais rápido possível, o escoamento do produto.",
+    "B": "Sinalizar o local com tochas de fogo.",
+    "C": "Isolar o local.",
+    "D": "Efetuar, primeiramente, a limpeza do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 25,
+  "tipo": "meio_ambiente",
+  "pergunta": "Substâncias tóxicas são aquelas que:",
+  "alternativas": {
+    "A": "Contêm micro-organismos infecciosos.",
+    "B": "Liberam gás ou vapor venenoso.",
+    "C": "Liberam o oxigênio.",
+    "D": "Para serem transportadas devem estar altamente refrigeradas."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 26,
+  "tipo": "meio_ambiente",
+  "pergunta": "O CONAMA e as agências ambientais do estado e do município têm como principais preocupações:",
+  "alternativas": {
+    "A": "A conservação dos equipamentos de segurança das estradas.",
+    "B": "A orientação do fluxo de veículos nas vias urbanas.",
+    "C": "A fiscalização da produção de veículos.",
+    "D": "A defesa da saúde e do meio ambiente."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 27,
+  "tipo": "meio_ambiente",
+  "pergunta": "Com relação ao meio ambiente, as queimadas provocam:",
+  "alternativas": {
+    "A": "Reflorestamento natural.",
+    "B": "Danos ao meio ambiente.",
+    "C": "Insônia.",
+    "D": "Aumento dos clorofluorcarbonetos."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 28,
+  "tipo": "meio_ambiente",
+  "pergunta": "A poluição do ar causa problemas de saúde que resultam, principalmente, em:",
+  "alternativas": {
+    "A": "Doenças do aparelho digestivo.",
+    "B": "Doenças respiratórias.",
+    "C": "Alterações visuais.",
+    "D": "Doenças do aparelho locomotor."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 29,
+  "tipo": "meio_ambiente",
+  "pergunta": "A má conservação e a regulagem inadequada dos veículos automotores contribuem, principalmente para:",
+  "alternativas": {
+    "A": "Poluição da água.",
+    "B": "Poluição do solo.",
+    "C": "Poluição do ar e a poluição sonora.",
+    "D": "Desgaste do veículo."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 30,
+  "tipo": "meio_ambiente",
+  "pergunta": "Não constitui efeitos danosos do ruído:",
+  "alternativas": {
+    "A": "Insônia",
+    "B": "Efeito estufa.",
+    "C": "Irritabilidade.",
+    "D": "Dores de cabeça."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 1,
+  "tipo": "mecanica",
+  "pergunta": "O bom funcionamento do veículo depende de manutenções e trocas de vários componentes, líquidos e lubrificantes. Indique abaixo os itens que devem ser verificados com maior frequência:",
+  "alternativas": {
+    "A": "Nível de óleo da caixa de câmbio e lonas de freio.",
+    "B": "Nível de óleo, de água e calibragem dos pneus.",
+    "C": "Filtro de combustível e bomba d'água.",
+    "D": "Filtro de ar e velas de ignição."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 2,
+  "tipo": "mecanica",
+  "pergunta": "Os gases gerados pelo motor são eliminados:",
+  "alternativas": {
+    "A": "Pela ventilação do motor.",
+    "B": "Pelo silenciador.",
+    "C": "Pelo escapamento.",
+    "D": "Pela ventoinha."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 3,
+  "tipo": "mecanica",
+  "pergunta": "A falta de balanceamento das rodas pode acarretar:",
+  "alternativas": {
+    "A": "Direção dura.",
+    "B": "Trepidações.",
+    "C": "Rangido dos pneus nas curvas.",
+    "D": "Chassi deformado."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 4,
+  "tipo": "mecanica",
+  "pergunta": "O sistema utilizado para um veículo descrever uma trajetória circular é o de:",
+  "alternativas": {
+    "A": "Direção.",
+    "B": "Elétrico.",
+    "C": "Arrefecimento.",
+    "D": "Transmissão."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 5,
+  "tipo": "mecanica",
+  "pergunta": "O filtro de ar tem como função:",
+  "alternativas": {
+    "A": "Filtrar o ar que refrigera o motor.",
+    "B": "Filtrar o combustível.",
+    "C": "Filtrar o óleo lubrificante.",
+    "D": "Filtrar o ar que vai para a câmara de explosão do motor."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 6,
+  "tipo": "mecanica",
+  "pergunta": "A vela de ignição tem como função:",
+  "alternativas": {
+    "A": "Fornecer centelha elétrica na câmara de explosão.",
+    "B": "Interromper a corrente elétrica.",
+    "C": "Aquecer o combustível.",
+    "D": "Aquecer o ar da câmara de explosão."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 7,
+  "tipo": "mecanica",
+  "pergunta": "A função do silenciador no veículo é:",
+  "alternativas": {
+    "A": "Criar a centelha necessária para a explosão da mistura de ar e combustível.",
+    "B": "Permitir uma partida suave do veículo.",
+    "C": "Diminuir os ruídos vindos da descarga dos gases gerados pelo motor.",
+    "D": "Reduzir, drasticamente, os níveis de emissão de gases."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 8,
+  "tipo": "mecanica",
+  "pergunta": "O sistema de lubrificação tem a função de:",
+  "alternativas": {
+    "A": "Aquecer as peças móveis do motor.",
+    "B": "Alimentar o atrito e esquentar o motor para obter maior potência.",
+    "C": "Reduzir a emissão de gases poluentes.",
+    "D": "Lubrificar as peças móveis do motor, evitando o atrito."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 9,
+  "tipo": "mecanica",
+  "pergunta": "A finalidade do filtro de combustível é:",
+  "alternativas": {
+    "A": "Controlar a pressão de combustível.",
+    "B": "Evitar o excesso de combustível.",
+    "C": "Reter as impurezas do ar.",
+    "D": "Reter as impurezas do combustível."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 10,
+  "tipo": "mecanica",
+  "pergunta": "Um dos cuidados que se deve ter, periodicamente, com o veículo é:",
+  "alternativas": {
+    "A": "Lavar os tapetes para evitar ferrugem.",
+    "B": "Trocar a água do radiador mensalmente.",
+    "C": "Lavar os pneus evitando derrapagens.",
+    "D": "Verificar o nível do óleo do motor."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 11,
+  "tipo": "mecanica",
+  "pergunta": "Os principais sistemas do veículo são:",
+  "alternativas": {
+    "A": "Motor, câmbio, diferencial, freio.",
+    "B": "Motor, transmissão, direção, suspensão, freio.",
+    "C": "Motor, embreagem, cardã, eixo motriz, semiárvore.",
+    "D": "Motor, molas, amortecedores, pneus."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 12,
+  "tipo": "mecanica",
+  "pergunta": "A finalidade do sistema de arrefecimento é:",
+  "alternativas": {
+    "A": "Controlar as rotações do motor.",
+    "B": "Evitar o atrito das peças móveis do motor.",
+    "C": "Manter a temperatura ideal de trabalho do motor.",
+    "D": "Reduzir a potência do motor."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 13,
+  "tipo": "mecanica",
+  "pergunta": "O freio de estacionamento, geralmente, atua:",
+  "alternativas": {
+    "A": "Nas rodas dianteiras.",
+    "B": "Na transmissão.",
+    "C": "Nas rodas traseiras.",
+    "D": "Nas rodas traseiras e dianteiras."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 14,
+  "tipo": "mecanica",
+  "pergunta": "O instrumento do painel que indica a velocidade desenvolvida pelo veículo é o:",
+  "alternativas": {
+    "A": "Odômetro.",
+    "B": "Tacógrafo.",
+    "C": "Velocímetro.",
+    "D": "Manômetro."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 15,
+  "tipo": "mecanica",
+  "pergunta": "O sistema, cuja finalidade é absorver os choques provocados pelas irregularidades da pavimentação chama-se:",
+  "alternativas": {
+    "A": "Diferencial.",
+    "B": "Direção.",
+    "C": "Transmissão.",
+    "D": "Suspensão."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 16,
+  "tipo": "mecanica",
+  "pergunta": "A peça mais pesada do motor chama-se:",
+  "alternativas": {
+    "A": "Cilindros ou camisas.",
+    "B": "Bloco do motor.",
+    "C": "Tampão.",
+    "D": "Cárter."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 17,
+  "tipo": "mecanica",
+  "pergunta": "O sistema que mantém a temperatura do motor, sempre, em condições de funcionamento chama-se:",
+  "alternativas": {
+    "A": "Alimentação.",
+    "B": "Elétrico.",
+    "C": "Arrefecimento.",
+    "D": "Inflamação."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 18,
+  "tipo": "mecanica",
+  "pergunta": "Para reduzir o consumo de combustível e a poluição do meio ambiente é recomendável:",
+  "alternativas": {
+    "A": "Manter o sistema de alimentação regulado.",
+    "B": "Efetuar troca das pastilhas de freios.",
+    "C": "Efetuar troca do óleo lubrificante.",
+    "D": "Verificar a carga da bateria."
+  },
+  "foto": null,
+  "correta": "A"
+}, 
+{
+  "numero": 19,
+  "tipo": "mecanica",
+  "pergunta": "Para que ocorra a combustão interna em um motor são necessários os seguintes elementos:",
+  "alternativas": {
+    "A": "Combustível e água.",
+    "B": "Combustível e vapor de água.",
+    "C": "Ar e combustível.",
+    "D": "Água e Nitrogênio."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 20,
+  "tipo": "mecanica",
+  "pergunta": "A função da caixa de câmbio é:",
+  "alternativas": {
+    "A": "Aumentar ou diminuir a força ou a velocidade do veículo.",
+    "B": "Aumentar ou diminuir o aquecimento do motor.",
+    "C": "Diminuir o atrito dos pneus nas curvas.",
+    "D": "Diminuir o desgaste da embreagem."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 21,
+  "tipo": "mecanica",
+  "pergunta": "O sistema que tem como finalidade diminuir a velocidade ou parar o veículo chama-se:",
+  "alternativas": {
+    "A": "Sistema de alimentação.",
+    "B": "Sistema de freios.",
+    "C": "Sistema de distribuição.",
+    "D": "Sistema de lubrificação."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 22,
+  "tipo": "mecanica",
+  "pergunta": "O filtro de óleo lubrificante do motor tem a função de:",
+  "alternativas": {
+    "A": "Tornar o óleo mais fino.",
+    "B": "Reter as impurezas do óleo.",
+    "C": "Tornar o óleo mais viscoso.",
+    "D": "Manter o nível do óleo."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 23,
+  "tipo": "mecanica",
+  "pergunta": "O conjunto de peças que serve para ligar e desligar a força motriz à caixa de marchas, chama-se:",
+  "alternativas": {
+    "A": "Volante do motor.",
+    "B": "Embreagem.",
+    "C": "Diferencial.",
+    "D": "Semiárvore."
+  },
+  "foto": null,
+  "correta": "B"
+},
+{
+  "numero": 24,
+  "tipo": "mecanica",
+  "pergunta": "A peça que tampa a parte inferior do motor e serve como reservatório e coletor do óleo lubrificante chama-se:",
+  "alternativas": {
+    "A": "Tampão.",
+    "B": "Tanque de combustível.",
+    "C": "Cárter.",
+    "D": "Pistão."
+  },
+  "foto": null,
+  "correta": "C"
+},
+{
+  "numero": 25,
+  "tipo": "mecanica",
+  "pergunta": "O tempo do motor no qual a mistura se inflama, chama-se:",
+  "alternativas": {
+    "A": "Admissão.",
+    "B": "Compressão.",
+    "C": "Descarga.",
+    "D": "Explosão."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 26,
+  "tipo": "mecanica",
+  "pergunta": "Pneus dianteiros com calibragem muito abaixo do normal podem acarretar:",
+  "alternativas": {
+    "A": "Todas as opções estão corretas.",
+    "B": "Desgastes prematuros dos mesmos.",
+    "C": "Estabilidade comprometida.",
+    "D": "Dificuldades nas manobras."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 27,
+  "tipo": "mecanica",
+  "pergunta": "O distribuidor faz parte do sistema:",
+  "alternativas": {
+    "A": "Elétrico.",
+    "B": "Automático.",
+    "C": "Transmissão.",
+    "D": "Arrefecimento."
+  },
+  "foto": null,
+  "correta": "A"
+},
+{
+  "numero": 28,
+  "tipo": "mecanica",
+  "pergunta": "É recomendável que se troque o extintor de incêndio do veículo automotor:",
+  "alternativas": {
+    "A": "Após o uso.",
+    "B": "Se apresentar alguma irregularidade.",
+    "C": "No vencimento do teste hidrostático.",
+    "D": "Todas as alternativas estão corretas."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 29,
+  "tipo": "mecanica",
+  "pergunta": "Os ruídos emitidos pelo funcionamento do motor de um veículo são reduzidos pelo:",
+  "alternativas": {
+    "A": "Carburador.",
+    "B": "Radiador.",
+    "C": "Catalisador.",
+    "D": "Silenciador."
+  },
+  "foto": null,
+  "correta": "D"
+},
+{
+  "numero": 30,
+  "tipo": "mecanica",
+  "pergunta": "O termômetro é utilizado para indicar:",
+  "alternativas": {
+    "A": "Alterações na composição do fluido de freio.",
+    "B": "A temperatura do motor.",
+    "C": "A temperatura no interior do veículo.",
+    "D": "A temperatura no exterior do veículo."
+  },
+  "foto": null,
+  "correta": "B"
+}
+    ]
+    }
+}
