@@ -9,9 +9,9 @@ import json
 import sys
 import sqlite3
 import random
-import logging
 import requests
 import time
+import logging
 from datetime import datetime
 
 LOG_DIR = "logs"
@@ -49,67 +49,60 @@ def conectar_db():
     except Exception as e:
         logger.error(f"Erro ao conectar ao banco: {e}")
         return None
-    
+
 #==============================================
 # FUNÇÃO DE CONSULTA AO MODELO FINE-TUNING
 #==============================================
 
-# def query_api(
-#     api_url: str,
-#     prompt: str,
-#     max_tokens: int = 256,
-#     temperature: float = 0.7,
-#     top_p: float = 0.9,
-#     timeout: int = 60,
-# ) -> dict:
-#     """Query the remote predict API with a one-shot prompt and return a dict.
+def query_api(
+    prompt: str,
+) -> dict:
+    """Query the remote predict API with a one-shot prompt and return a dict.
 
-#     Args:
-#         api_url: Base URL of the API (e.g. https://xxxx-xxxx.ngrok.io).
-#         prompt: The prompt string to send to the model.
-#         max_tokens: Maximum tokens to request.
-#         temperature: Sampling temperature.
-#         top_p: Nucleus sampling p.
-#         timeout: Request timeout in seconds for the predict request.
+    Args:
+        prompt: The prompt string to send to the model.
 
-#     Returns:
-#         A dictionary containing the JSON response from the server or an
-#         error key with details when the request fails.
-#     """
-#     api_url = "https://jade-tachyauxetic-maribel.ngrok-free.dev"
-#     session = requests.Session()
+    Returns:
+        A dictionary containing the JSON response from the server or an
+        error key with details when the request fails.
+    """
+    max_tokens = 256
+    temperature = 0.7
+    top_p = 0.9
+    timeout = 60
+    api_url = "https://jade-tachyauxetic-maribel.ngrok-free.dev"
+    session = requests.Session()
 
-#     # Quick health check
-#     try:
-#         health = session.get(f"{api_url}/health", timeout=5)
-#         if health.status_code != 200:
-#             return {"error": f"API not accessible at {api_url} (status={health.status_code})"}
-#     except requests.exceptions.RequestException as e:
-#         return {"error": f"API access error: {e}"}
+    # # Quick health check
+    # try:
+    #     health = session.get(f"{api_url}/health", timeout=5)
+    #     if health.status_code != 200:
+    #         return {"error": f"API not accessible at {api_url} (status={health.status_code})"}
+    # except requests.exceptions.RequestException as e:
+    #     return {"error": f"API access error: {e}"}
 
-#     payload = {
-#         "prompt": prompt,
-#         "max_tokens": max_tokens,
-#         "temperature": temperature,
-#         "top_p": top_p,
-#     }
+    payload = {
+        "prompt": prompt,
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+        "top_p": top_p,
+    }
 
-#     try:
-#         start = time.time()
-#         resp = session.post(f"{api_url}/predict", json=payload, timeout=timeout)
-#         elapsed = time.time() - start
-#         resp.raise_for_status()
-#         result = resp.json()
-#         result["elapsed_time"] = elapsed
-#         return {"resposta":result}
+    try:
+        start = time.time()
+        resp = session.post(f"{api_url}/predict", json=payload, timeout=timeout)
+        elapsed = time.time() - start
+        resp.raise_for_status()
+        result = resp.json()
+        result["elapsed_time"] = elapsed
+        return {"resposta":result}
 
-#     except requests.exceptions.Timeout:
-#         return {"error": "Timeout - the request took too long"}
-#     except requests.exceptions.ConnectionError:
-#         return {"error": "Connection error when contacting the API"}
-#     except Exception as e:
-#         return {"error": str(e)}
-
+    except requests.exceptions.Timeout:
+        return {"error": "Timeout - the request took too long"}
+    except requests.exceptions.ConnectionError:
+        return {"error": "Connection error when contacting the API"}
+    except Exception as e:
+        return {"error": str(e)}
 # ============================================
 # FUNÇÕES DE SIMULADO
 # ============================================
@@ -759,6 +752,17 @@ TOOLS = [
             },
             "required": ["user_id"]
         }
+    },
+    {
+        "name": "query_api",
+        "description": "Retorna ao usuário a resposta do modelo fine-tuned para o prompt fornecido",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "prompt": {"type": "string", "description": "Prompt para o modelo"}
+            },
+            "required": ["prompt"]
+        }
     }
 ]
 
@@ -820,6 +824,8 @@ def processar_mensagem(msg: dict) -> dict:
                     args.get("categoria_name"),
                     args.get("limite", 10)
                 )
+            elif nome == "query_api":
+                resultado = query_api(args.get("prompt", ""))
             else:
                 resultado = {"erro": f"Ferramenta '{nome}' não encontrada"}
             
