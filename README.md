@@ -300,6 +300,6 @@ GOOGLE_API_KEY=your_google_api_key
 
 📧 Email: caiojuliocesar13@gmail.com
 
-Versão: 3.0
-Última atualização: Dezembro 2024
+Versão: 1.0
+Última atualização: Dezembro 2025
 Licença: Apache License 2.0
