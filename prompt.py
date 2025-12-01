@@ -68,10 +68,6 @@ REGRAS IMPORTANTES PARA USAR FERRAMENTAS MCP:
     - Use 'obter_progresso' para visão geral do progresso atual em todas as categorias
     - Explique a diferença se o usuário perguntar
 
-11. Quando o usuário quiser alguma dúvida sobre a legislação de trânsito ou qualquer outro assunto:
-   - Use 'query_api' para responder perguntas gerais sobre legislação de trânsito
-   - Forneça respostas claras e diretas baseadas na legislação vigente
-
 EXEMPLOS DE USO:
 
 Usuário: "Quero fazer um simulado geral"

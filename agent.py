@@ -13,7 +13,6 @@ from google.adk.tools.mcp_tool.mcp_session_manager import StdioConnectionParams
 from mcp import StdioServerParameters
 from google.genai import types
 from prompt import DB_MCP_PROMPT
-from fastapi.middleware.cors import CORSMiddleware
 
 load_dotenv()
 
@@ -36,7 +35,7 @@ root_agent = LlmAgent(
                 server_params=StdioServerParameters(
                     command="python",
                     args=[
-                        "C:/Ambiente de Desenvolvimento/Agente-Transito/agent.py"
+                        "C:/Users/jc130/OneDrive/Área de Trabalho/Agente Legislacao/agente_transito/server.py"
                     ],
                 ),
                 timeout=30,
@@ -77,19 +76,6 @@ async def call_agent_async(query: str) -> str:
 # -------------------------
 
 app = FastAPI(title="Database IA API (Google ADK)")
-
-origins = [
-    "http://localhost:3000", 
-    "http://127.0.0.1:3000",
-]
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,      
-    allow_credentials=True,
-    allow_methods=["*"],        
-    allow_headers=["*"],         
-)
 
 class QueryRequest(BaseModel):
     query: str
